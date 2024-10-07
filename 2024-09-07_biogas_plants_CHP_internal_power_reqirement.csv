@@ -1,0 +1,3 @@
+Biogas plant type;Internal energy requirement [% produced energy], M;Internal energy requirement [% produced energy], SD;Distribution;Source
+CHP NCB;8.82;1.95;Normal;Biogas-measurement programme III, p. 71 (FNR, 2021)
+CHP FCB;8.82;1.95;Normal;Biogas-measurement programme III, p. 71 (FNR, 2021)

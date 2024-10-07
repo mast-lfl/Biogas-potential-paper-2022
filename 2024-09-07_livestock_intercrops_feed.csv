@@ -1,0 +1,77 @@
+Farming region type;Livestock type;Livestock;Feed from intercropping [% DM], M;Feed from intercropping [% DM], SD;Feed from intercropping [% DM], Min;Feed from intercropping [% DM], Max;Distribution;Source
+Arable farming region;Cattle;Calves up to 6 months;7.5;0.83;4.39;10.91;Normal;Estimation by LfL experts
+Arable farming region;Cattle;Cows (dairy, suckler and nurse cows);7.49;0.83;4.44;10.46;Normal;Estimation by LfL experts
+Arable farming region;Cattle;Female cattle over 1 year up to 2 years;7.51;0.84;4.36;10.58;Normal;Estimation by LfL experts
+Arable farming region;Cattle;Female cattle over 6 months up to 1 year;7.51;0.83;4.22;11.77;Normal;Estimation by LfL experts
+Arable farming region;Cattle;Male cattle over 1 year up to 2 years;7.51;0.83;4.23;11.11;Normal;Estimation by LfL experts
+Arable farming region;Cattle;Male cattle over 2 years, breeding bulls;7.51;0.84;4.38;10.68;Normal;Estimation by LfL experts
+Arable farming region;Cattle;Male cattle over 6 months up to 1 year;7.51;0.83;3.93;10.69;Normal;Estimation by LfL experts
+Arable farming region;Cattle;Other female cattle over 2 years;7.49;0.84;4.37;10.82;Normal;Estimation by LfL experts
+Arable farming region;Horses;Horses over 1 year;7.48;0.83;3.26;11.31;Normal;Estimation by LfL experts
+Arable farming region;Horses;Horses up to 1 year, ponies, small horses;7.5;0.82;4.83;10.41;Normal;Estimation by LfL experts
+Arable farming region;Pigs;Breeding sows from 1st farrowing/pregnant gilts;0;0;0;0;Normal;Estimation by LfL experts
+Arable farming region;Pigs;Fattening pigs (incl. boars) from 50 kg;0;0;0;0;Normal;Estimation by LfL experts
+Arable farming region;Pigs;Other breeding pigs (without boar) from 50 kg;0;0;0;0;Normal;Estimation by LfL experts
+Arable farming region;Pigs;Piglets up to under 30 kg;0;0;0;0;Normal;Estimation by LfL experts
+Arable farming region;Pigs;Young pigs 30 to under 50 kg;0;0;0;0;Normal;Estimation by LfL experts
+Arable farming region;Sheep;Ewes;7.51;0.83;4.7;10.88;Normal;Estimation by LfL experts
+Arable farming region;Sheep;Other sheep over 1 year, mutton;7.49;0.83;4.43;10.74;Normal;Estimation by LfL experts
+Arable farming region;Sheep;Rams for breeding;7.51;0.82;4.4;11.23;Normal;Estimation by LfL experts
+Arable farming region;Sheep;Sheeps up to 1 year, including lambs;7.49;0.82;4.45;10.66;Normal;Estimation by LfL experts
+Grassland-rich region;Cattle;Calves up to 6 months;0;0;0;0;Normal;Estimation by LfL experts
+Grassland-rich region;Cattle;Cows (dairy, suckler and nurse cows);0;0;0;0;Normal;Estimation by LfL experts
+Grassland-rich region;Cattle;Female cattle over 1 year up to 2 years;0;0;0;0;Normal;Estimation by LfL experts
+Grassland-rich region;Cattle;Female cattle over 6 months up to 1 year;0;0;0;0;Normal;Estimation by LfL experts
+Grassland-rich region;Cattle;Male cattle over 1 year up to 2 years;0;0;0;0;Normal;Estimation by LfL experts
+Grassland-rich region;Cattle;Male cattle over 2 years, breeding bulls;0;0;0;0;Normal;Estimation by LfL experts
+Grassland-rich region;Cattle;Male cattle over 6 months up to 1 year;0;0;0;0;Normal;Estimation by LfL experts
+Grassland-rich region;Cattle;Other female cattle over 2 years;0;0;0;0;Normal;Estimation by LfL experts
+Grassland-rich region;Horses;Horses over 1 year;0;0;0;0;Normal;Estimation by LfL experts
+Grassland-rich region;Horses;Horses up to 1 year, ponies, small horses;0;0;0;0;Normal;Estimation by LfL experts
+Grassland-rich region;Pigs;Breeding sows from 1st farrowing/pregnant gilts;0;0;0;0;Normal;Estimation by LfL experts
+Grassland-rich region;Pigs;Fattening pigs (incl. boars) from 50 kg;0;0;0;0;Normal;Estimation by LfL experts
+Grassland-rich region;Pigs;Other breeding pigs (without boar) from 50 kg;0;0;0;0;Normal;Estimation by LfL experts
+Grassland-rich region;Pigs;Piglets up to under 30 kg;0;0;0;0;Normal;Estimation by LfL experts
+Grassland-rich region;Pigs;Young pigs 30 to under 50 kg;0;0;0;0;Normal;Estimation by LfL experts
+Grassland-rich region;Sheep;Ewes;0;0;0;0;Normal;Estimation by LfL experts
+Grassland-rich region;Sheep;Other sheep over 1 year, mutton;0;0;0;0;Normal;Estimation by LfL experts
+Grassland-rich region;Sheep;Rams for breeding;0;0;0;0;Normal;Estimation by LfL experts
+Grassland-rich region;Sheep;Sheeps up to 1 year, including lambs;0;0;0;0;Normal;Estimation by LfL experts
+Mixed farming region;Cattle;Calves up to 6 months;3.75;0.42;2.21;5.25;Normal;Estimation by LfL experts
+Mixed farming region;Cattle;Cows (dairy, suckler and nurse cows);3.76;0.42;2.25;5.47;Normal;Estimation by LfL experts
+Mixed farming region;Cattle;Female cattle over 1 year up to 2 years;3.75;0.42;2.28;5.19;Normal;Estimation by LfL experts
+Mixed farming region;Cattle;Female cattle over 6 months up to 1 year;3.74;0.42;2.27;5.38;Normal;Estimation by LfL experts
+Mixed farming region;Cattle;Male cattle over 1 year up to 2 years;3.75;0.41;2.14;5.53;Normal;Estimation by LfL experts
+Mixed farming region;Cattle;Male cattle over 2 years, breeding bulls;3.75;0.42;2.29;5.77;Normal;Estimation by LfL experts
+Mixed farming region;Cattle;Male cattle over 6 months up to 1 year;3.74;0.42;2.01;5.24;Normal;Estimation by LfL experts
+Mixed farming region;Cattle;Other female cattle over 2 years;3.75;0.42;2.16;5.26;Normal;Estimation by LfL experts
+Mixed farming region;Horses;Horses over 1 year;3.75;0.42;2.32;5.25;Normal;Estimation by LfL experts
+Mixed farming region;Horses;Horses up to 1 year, ponies, small horses;3.75;0.41;2.21;5.19;Normal;Estimation by LfL experts
+Mixed farming region;Pigs;Breeding sows from 1st farrowing/pregnant gilts;0;0;0;0;Normal;Estimation by LfL experts
+Mixed farming region;Pigs;Fattening pigs (incl. boars) from 50 kg;0;0;0;0;Normal;Estimation by LfL experts
+Mixed farming region;Pigs;Other breeding pigs (without boar) from 50 kg;0;0;0;0;Normal;Estimation by LfL experts
+Mixed farming region;Pigs;Piglets up to under 30 kg;0;0;0;0;Normal;Estimation by LfL experts
+Mixed farming region;Pigs;Young pigs 30 to under 50 kg;0;0;0;0;Normal;Estimation by LfL experts
+Mixed farming region;Sheep;Ewes;3.75;0.42;2.12;5.48;Normal;Estimation by LfL experts
+Mixed farming region;Sheep;Other sheep over 1 year, mutton;3.75;0.41;2.13;5.52;Normal;Estimation by LfL experts
+Mixed farming region;Sheep;Rams for breeding;3.75;0.42;1.96;5.32;Normal;Estimation by LfL experts
+Mixed farming region;Sheep;Sheeps up to 1 year, including lambs;3.75;0.41;2.03;5.42;Normal;Estimation by LfL experts
+Pure grassland region;Cattle;Calves up to 6 months;0;0;0;0;Normal;Estimation by LfL experts
+Pure grassland region;Cattle;Cows (dairy, suckler and nurse cows);0;0;0;0;Normal;Estimation by LfL experts
+Pure grassland region;Cattle;Female cattle over 1 year up to 2 years;0;0;0;0;Normal;Estimation by LfL experts
+Pure grassland region;Cattle;Female cattle over 6 months up to 1 year;0;0;0;0;Normal;Estimation by LfL experts
+Pure grassland region;Cattle;Male cattle over 1 year up to 2 years;0;0;0;0;Normal;Estimation by LfL experts
+Pure grassland region;Cattle;Male cattle over 2 years, breeding bulls;0;0;0;0;Normal;Estimation by LfL experts
+Pure grassland region;Cattle;Male cattle over 6 months up to 1 year;0;0;0;0;Normal;Estimation by LfL experts
+Pure grassland region;Cattle;Other female cattle over 2 years;0;0;0;0;Normal;Estimation by LfL experts
+Pure grassland region;Horses;Horses over 1 year;0;0;0;0;Normal;Estimation by LfL experts
+Pure grassland region;Horses;Horses up to 1 year, ponies, small horses;0;0;0;0;Normal;Estimation by LfL experts
+Pure grassland region;Pigs;Breeding sows from 1st farrowing/pregnant gilts;0;0;0;0;Normal;Estimation by LfL experts
+Pure grassland region;Pigs;Fattening pigs (incl. boars) from 50 kg;0;0;0;0;Normal;Estimation by LfL experts
+Pure grassland region;Pigs;Other breeding pigs (without boar) from 50 kg;0;0;0;0;Normal;Estimation by LfL experts
+Pure grassland region;Pigs;Piglets up to under 30 kg;0;0;0;0;Normal;Estimation by LfL experts
+Pure grassland region;Pigs;Young pigs 30 to under 50 kg;0;0;0;0;Normal;Estimation by LfL experts
+Pure grassland region;Sheep;Ewes;0;0;0;0;Normal;Estimation by LfL experts
+Pure grassland region;Sheep;Other sheep over 1 year, mutton;0;0;0;0;Normal;Estimation by LfL experts
+Pure grassland region;Sheep;Rams for breeding;0;0;0;0;Normal;Estimation by LfL experts
+Pure grassland region;Sheep;Sheeps up to 1 year, including lambs;0;0;0;0;Normal;Estimation by LfL experts

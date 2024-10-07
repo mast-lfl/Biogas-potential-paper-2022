@@ -1,0 +1,20 @@
+Livestock type;Livestock;Feed units [tDM head^-1], M;Feed units [tDM head^-1], SD;Feed units [tDM head^-1], Min;Feed units [tDM head^-1], Max;Distribution;Source
+Cattle;Calves up to 6 months;0.91;0.09;0.49;1.28;Normal;Estimation by LfL experts
+Cattle;Cows (dairy, suckler and nurse cows);5.48;0.55;3.08;7.67;Normal;Estimation by LfL experts
+Cattle;Female cattle over 1 year up to 2 years;2.92;0.29;1.49;4.05;Normal;Estimation by LfL experts
+Cattle;Female cattle over 6 months up to 1 year;1.83;0.18;1.14;2.55;Normal;Estimation by LfL experts
+Cattle;Male cattle over 1 year up to 2 years;2.55;0.26;1.54;3.58;Normal;Estimation by LfL experts
+Cattle;Male cattle over 2 years, breeding bulls;4.19;0.42;2.38;5.95;Normal;Estimation by LfL experts
+Cattle;Male cattle over 6 months up to 1 year;1.94;0.19;1.14;2.82;Normal;Estimation by LfL experts
+Cattle;Other female cattle over 2 years;4.38;0.44;2.72;6.21;Normal;Estimation by LfL experts
+Horses;Horses over 1 year;4.38;0.44;2.55;6.12;Normal;Estimation by LfL experts
+Horses;Horses up to 1 year, ponies, small horses;1.64;0.16;0.89;2.29;Normal;Estimation by LfL experts
+Pigs;Breeding sows from 1st farrowing/pregnant gilts;0.44;0.04;0.26;0.63;Normal;Estimation by LfL experts
+Pigs;Fattening pigs (incl. boars) from 50 kg;0.22;0.02;0.13;0.31;Normal;Estimation by LfL experts
+Pigs;Other breeding pigs (without boar) from 50 kg;0.22;0.02;0.13;0.31;Normal;Estimation by LfL experts
+Pigs;Piglets up to under 30 kg;0.04;0;0.02;0.05;Normal;Estimation by LfL experts
+Pigs;Young pigs 30 to under 50 kg;0.05;0;0.02;0.07;Normal;Estimation by LfL experts
+Sheep;Ewes;0.58;0.06;0.34;0.82;Normal;Estimation by LfL experts
+Sheep;Other sheep over 1 year, mutton;0.58;0.06;0.36;0.81;Normal;Estimation by LfL experts
+Sheep;Rams for breeding;0.58;0.06;0.33;0.82;Normal;Estimation by LfL experts
+Sheep;Sheeps up to 1 year, including lambs;0.58;0.06;0.36;0.85;Normal;Estimation by LfL experts

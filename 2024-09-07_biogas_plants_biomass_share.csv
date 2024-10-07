@@ -1,0 +1,257 @@
+Farming region type;Biogas plant type;Biomass;Biomass class;Biomass share [% FM], M;Biomass share [% FM], SD;Biomass share [% FM], Min;Biomass share [% FM], Max;Distribution;Source
+Arable farming region;CHP FCB;Beet leaf;LCB;0.01;0;0;0.01;Resampling from empirical distribution;Data set V
+Arable farming region;CHP FCB;Cattle manure;NCB;4.6;0.33;3.15;5.72;Resampling from empirical distribution;Data set V
+Arable farming region;CHP FCB;Cattle slurry;NCB;29.19;0.76;26.56;31.93;Resampling from empirical distribution;Data set V
+Arable farming region;CHP FCB;Cereal grain;FCB;1.26;0.09;0.89;1.52;Resampling from empirical distribution;Data set V
+Arable farming region;CHP FCB;Cereal straw;LCB;0.01;0.01;0;0.02;Resampling from empirical distribution;Data set V
+Arable farming region;CHP FCB;Cereal whole crop;FCB;4.8;0.31;3.5;5.76;Resampling from empirical distribution;Data set V
+Arable farming region;CHP FCB;Clover alfalfa grass mix;LCB;0;0;0;0;Resampling from empirical distribution;Data set V
+Arable farming region;CHP FCB;Clover grass mix;LCB;0.65;0.33;0;0.91;Resampling from empirical distribution;Data set V
+Arable farming region;CHP FCB;Cup plant;LCB;0.11;0.02;0.01;0.15;Resampling from empirical distribution;Data set V
+Arable farming region;CHP FCB;Fodder beets;FCB;0;0;0;0;Resampling from empirical distribution;Data set V
+Arable farming region;CHP FCB;Food processing waste;NCB;0.48;0.25;0;0.68;Resampling from empirical distribution;Data set V
+Arable farming region;CHP FCB;Food waste;NCB;0;0;0;0.01;Resampling from empirical distribution;Data set V
+Arable farming region;CHP FCB;Glycerine;NCB;0;0;0;0;Resampling from empirical distribution;Data set V
+Arable farming region;CHP FCB;Grape pomace;NCB;0;0;0;0;Resampling from empirical distribution;Data set V
+Arable farming region;CHP FCB;Grease trap;NCB;0.23;0.12;0;0.32;Resampling from empirical distribution;Data set V
+Arable farming region;CHP FCB;Green rye;FCB;0.85;0.13;0.31;1.15;Resampling from empirical distribution;Data set V
+Arable farming region;CHP FCB;Horse manure;NCB;0.42;0.17;0.01;0.58;Resampling from empirical distribution;Data set V
+Arable farming region;CHP FCB;Landscaping material;LCB;0;0;0;0;Resampling from empirical distribution;Data set V
+Arable farming region;CHP FCB;Legume cereal mix whole crop;FCB;0.07;0.03;0;0.09;Resampling from empirical distribution;Data set V
+Arable farming region;CHP FCB;Legume grain;FCB;0;0;0;0.01;Resampling from empirical distribution;Data set V
+Arable farming region;CHP FCB;Maize grain;FCB;0.64;0.1;0.26;0.87;Resampling from empirical distribution;Data set V
+Arable farming region;CHP FCB;Maize straw;LCB;0;0;0;0;Resampling from empirical distribution;Data set V
+Arable farming region;CHP FCB;Maize whole crop;FCB;43.17;0.89;39.48;46.25;Resampling from empirical distribution;Data set V
+Arable farming region;CHP FCB;Permanent grassland;LCB;8.7;0.47;6.85;10.31;Resampling from empirical distribution;Data set V
+Arable farming region;CHP FCB;Pig manure;NCB;0.09;0.04;0;0.12;Resampling from empirical distribution;Data set V
+Arable farming region;CHP FCB;Pig slurry;NCB;3.47;0.56;0.92;4.75;Resampling from empirical distribution;Data set V
+Arable farming region;CHP FCB;Potatoes;FCB;0.01;0.01;0;0.02;Resampling from empirical distribution;Data set V
+Arable farming region;CHP FCB;Poultry manure;NCB;0.49;0.12;0.02;0.68;Resampling from empirical distribution;Data set V
+Arable farming region;CHP FCB;Rapeseed whole crop;FCB;0;0;0;0;Resampling from empirical distribution;Data set V
+Arable farming region;CHP FCB;Sheep manure;NCB;0.19;0.07;0;0.27;Resampling from empirical distribution;Data set V
+Arable farming region;CHP FCB;Sorghum whole crop;FCB;0.05;0.02;0;0.06;Resampling from empirical distribution;Data set V
+Arable farming region;CHP FCB;Sugar beets;FCB;0.46;0.07;0.13;0.61;Resampling from empirical distribution;Data set V
+Arable farming region;CHP FCB;Sunflower whole crop;FCB;0.03;0.01;0;0.04;Resampling from empirical distribution;Data set V
+Arable farming region;CHP FCB;Szarvasi whole crop;LCB;0;0;0;0;Resampling from empirical distribution;Data set V
+Arable farming region;CHP NCB;Cattle manure;NCB;19.95;4.08;8.24;26.52;Resampling from empirical distribution;Data set VI
+Arable farming region;CHP NCB;Cattle slurry;NCB;74.43;4.48;65.33;84.51;Resampling from empirical distribution;Data set VI
+Arable farming region;CHP NCB;Cereal grain;FCB;0;0;0;0;Resampling from empirical distribution;Data set VI
+Arable farming region;CHP NCB;Cereal whole crop;FCB;0.27;0.14;0;0.45;Resampling from empirical distribution;Data set VI
+Arable farming region;CHP NCB;Fodder beets;FCB;0;0;0;0;Resampling from empirical distribution;Data set VI
+Arable farming region;CHP NCB;Landscaping material;LCB;0;0;0;0;Resampling from empirical distribution;Data set VI
+Arable farming region;CHP NCB;Maize grain;FCB;0;0;0;0;Resampling from empirical distribution;Data set VI
+Arable farming region;CHP NCB;Maize whole crop;FCB;1.22;0.51;0;1.99;Resampling from empirical distribution;Data set VI
+Arable farming region;CHP NCB;Permanent grassland;LCB;1.98;0.7;0.11;3.27;Resampling from empirical distribution;Data set VI
+Arable farming region;CHP NCB;Pig slurry;NCB;2.15;1.13;0;3.56;Resampling from empirical distribution;Data set VI
+Arable farming region;CHP NCB;Poultry manure;NCB;0;0;0;0;Resampling from empirical distribution;Data set VI
+Arable farming region;GGI;Cattle manure;NCB;13.62;7.71;0;20.68;Resampling from empirical distribution;Data set VII
+Arable farming region;GGI;Cattle slurry;NCB;0.85;0.48;0;1.47;Resampling from empirical distribution;Data set VII
+Arable farming region;GGI;Cereal grain;FCB;0.39;0.08;0.13;0.61;Resampling from empirical distribution;Data set VII
+Arable farming region;GGI;Cereal straw;LCB;0.03;0.01;0;0.05;Resampling from empirical distribution;Data set VII
+Arable farming region;GGI;Cereal whole crop;FCB;11.16;1.5;7.1;16.6;Resampling from empirical distribution;Data set VII
+Arable farming region;GGI;Clover grass mix;LCB;1.58;0.58;0;2.75;Resampling from empirical distribution;Data set VII
+Arable farming region;GGI;Cup plant;LCB;0.07;0.04;0;0.12;Resampling from empirical distribution;Data set VII
+Arable farming region;GGI;Food processing waste;NCB;0.07;0.03;0;0.13;Resampling from empirical distribution;Data set VII
+Arable farming region;GGI;Hops chaff;NCB;4.74;2.64;0;7.88;Resampling from empirical distribution;Data set VII
+Arable farming region;GGI;Horse manure;NCB;0.21;0.09;0;0.37;Resampling from empirical distribution;Data set VII
+Arable farming region;GGI;Landscaping material;LCB;0.17;0.1;0;0.29;Resampling from empirical distribution;Data set VII
+Arable farming region;GGI;Maize grain;FCB;0.6;0.23;0;1;Resampling from empirical distribution;Data set VII
+Arable farming region;GGI;Maize whole crop;FCB;50.87;5.8;42.47;65.75;Resampling from empirical distribution;Data set VII
+Arable farming region;GGI;Permanent grassland;LCB;12.68;0.96;9.95;15.32;Resampling from empirical distribution;Data set VII
+Arable farming region;GGI;Pig manure;NCB;0.22;0.12;0;0.38;Resampling from empirical distribution;Data set VII
+Arable farming region;GGI;Pig slurry;NCB;0.85;0.48;0;1.47;Resampling from empirical distribution;Data set VII
+Arable farming region;GGI;Poultry manure;NCB;0.63;0.22;0;1.08;Resampling from empirical distribution;Data set VII
+Arable farming region;GGI;Sheep manure;NCB;0.02;0.01;0;0.04;Resampling from empirical distribution;Data set VII
+Arable farming region;GGI;Sugar beets;FCB;1.23;0.46;0;2.15;Resampling from empirical distribution;Data set VII
+Grassland-rich region;CHP FCB;Beet leaf;LCB;0;0;0;0;Resampling from empirical distribution;Data set V
+Grassland-rich region;CHP FCB;Cattle manure;NCB;2.12;0.26;1;2.87;Resampling from empirical distribution;Data set V
+Grassland-rich region;CHP FCB;Cattle slurry;NCB;29.78;0.82;26.82;32.78;Resampling from empirical distribution;Data set V
+Grassland-rich region;CHP FCB;Cereal grain;FCB;1.78;0.15;1.12;2.16;Resampling from empirical distribution;Data set V
+Grassland-rich region;CHP FCB;Cereal straw;LCB;0.01;0;0;0.02;Resampling from empirical distribution;Data set V
+Grassland-rich region;CHP FCB;Cereal whole crop;FCB;8.1;0.44;6.47;9.45;Resampling from empirical distribution;Data set V
+Grassland-rich region;CHP FCB;Clover alfalfa grass mix;LCB;0.03;0.01;0;0.04;Resampling from empirical distribution;Data set V
+Grassland-rich region;CHP FCB;Clover grass mix;LCB;0;0;0;0;Resampling from empirical distribution;Data set V
+Grassland-rich region;CHP FCB;Cup plant;LCB;0.08;0.02;0.02;0.12;Resampling from empirical distribution;Data set V
+Grassland-rich region;CHP FCB;Fodder beets;FCB;0;0;0;0;Resampling from empirical distribution;Data set V
+Grassland-rich region;CHP FCB;Food processing waste;NCB;0.06;0.02;0;0.08;Resampling from empirical distribution;Data set V
+Grassland-rich region;CHP FCB;Food waste;NCB;0;0;0;0;Resampling from empirical distribution;Data set V
+Grassland-rich region;CHP FCB;Glycerine;NCB;0;0;0;0;Resampling from empirical distribution;Data set V
+Grassland-rich region;CHP FCB;Grape pomace;NCB;0;0;0;0;Resampling from empirical distribution;Data set V
+Grassland-rich region;CHP FCB;Grease trap;NCB;0;0;0;0;Resampling from empirical distribution;Data set V
+Grassland-rich region;CHP FCB;Green rye;FCB;0.08;0.03;0;0.12;Resampling from empirical distribution;Data set V
+Grassland-rich region;CHP FCB;Horse manure;NCB;0.27;0.06;0.01;0.36;Resampling from empirical distribution;Data set V
+Grassland-rich region;CHP FCB;Landscaping material;LCB;0.74;0.38;0;1.07;Resampling from empirical distribution;Data set V
+Grassland-rich region;CHP FCB;Legume cereal mix whole crop;FCB;0.01;0;0;0.01;Resampling from empirical distribution;Data set V
+Grassland-rich region;CHP FCB;Legume grain;FCB;0;0;0;0;Resampling from empirical distribution;Data set V
+Grassland-rich region;CHP FCB;Maize grain;FCB;0.59;0.07;0.31;0.78;Resampling from empirical distribution;Data set V
+Grassland-rich region;CHP FCB;Maize straw;LCB;0;0;0;0;Resampling from empirical distribution;Data set V
+Grassland-rich region;CHP FCB;Maize whole crop;FCB;39.43;0.69;36.92;41.88;Resampling from empirical distribution;Data set V
+Grassland-rich region;CHP FCB;Permanent grassland;LCB;12.27;0.56;9.77;14.22;Resampling from empirical distribution;Data set V
+Grassland-rich region;CHP FCB;Pig manure;NCB;0.04;0.02;0;0.06;Resampling from empirical distribution;Data set V
+Grassland-rich region;CHP FCB;Pig slurry;NCB;1.99;0.34;0.54;2.69;Resampling from empirical distribution;Data set V
+Grassland-rich region;CHP FCB;Potatoes;FCB;0.03;0.02;0;0.05;Resampling from empirical distribution;Data set V
+Grassland-rich region;CHP FCB;Poultry manure;NCB;2.43;0.43;0.67;3.2;Resampling from empirical distribution;Data set V
+Grassland-rich region;CHP FCB;Rapeseed whole crop;FCB;0;0;0;0;Resampling from empirical distribution;Data set V
+Grassland-rich region;CHP FCB;Sheep manure;NCB;0;0;0;0;Resampling from empirical distribution;Data set V
+Grassland-rich region;CHP FCB;Sorghum whole crop;FCB;0.11;0.02;0.02;0.15;Resampling from empirical distribution;Data set V
+Grassland-rich region;CHP FCB;Sugar beets;FCB;0.06;0.02;0;0.08;Resampling from empirical distribution;Data set V
+Grassland-rich region;CHP FCB;Sunflower whole crop;FCB;0;0;0;0;Resampling from empirical distribution;Data set V
+Grassland-rich region;CHP FCB;Szarvasi whole crop;LCB;0;0;0;0;Resampling from empirical distribution;Data set V
+Grassland-rich region;CHP NCB;Cattle manure;NCB;8.13;1.44;3.84;10.67;Resampling from empirical distribution;Data set VI
+Grassland-rich region;CHP NCB;Cattle slurry;NCB;84.31;1.91;78.88;89;Resampling from empirical distribution;Data set VI
+Grassland-rich region;CHP NCB;Cereal grain;FCB;0.21;0.08;0;0.33;Resampling from empirical distribution;Data set VI
+Grassland-rich region;CHP NCB;Cereal whole crop;FCB;0.26;0.1;0;0.4;Resampling from empirical distribution;Data set VI
+Grassland-rich region;CHP NCB;Fodder beets;FCB;0;0;0;0;Resampling from empirical distribution;Data set VI
+Grassland-rich region;CHP NCB;Landscaping material;LCB;0;0;0;0;Resampling from empirical distribution;Data set VI
+Grassland-rich region;CHP NCB;Maize grain;FCB;0;0;0;0;Resampling from empirical distribution;Data set VI
+Grassland-rich region;CHP NCB;Maize whole crop;FCB;4.96;0.8;2.64;7.38;Resampling from empirical distribution;Data set VI
+Grassland-rich region;CHP NCB;Permanent grassland;LCB;2.13;0.46;0.84;3.07;Resampling from empirical distribution;Data set VI
+Grassland-rich region;CHP NCB;Pig slurry;NCB;0;0;0;0;Resampling from empirical distribution;Data set VI
+Grassland-rich region;CHP NCB;Poultry manure;NCB;0;0;0;0;Resampling from empirical distribution;Data set VI
+Grassland-rich region;GGI;Cattle manure;NCB;37.79;38.63;0;77.27;Resampling from empirical distribution;Data set VII
+Grassland-rich region;GGI;Cattle slurry;NCB;0;0;0;0;Resampling from empirical distribution;Data set VII
+Grassland-rich region;GGI;Cereal grain;FCB;0.53;0.37;0.15;0.89;Resampling from empirical distribution;Data set VII
+Grassland-rich region;GGI;Cereal straw;LCB;0;0;0;0;Resampling from empirical distribution;Data set VII
+Grassland-rich region;GGI;Cereal whole crop;FCB;14.78;9.74;4.83;24.31;Resampling from empirical distribution;Data set VII
+Grassland-rich region;GGI;Clover grass mix;LCB;0;0;0;0;Resampling from empirical distribution;Data set VII
+Grassland-rich region;GGI;Cup plant;LCB;0;0;0;0;Resampling from empirical distribution;Data set VII
+Grassland-rich region;GGI;Food processing waste;NCB;0;0;0;0;Resampling from empirical distribution;Data set VII
+Grassland-rich region;GGI;Hops chaff;NCB;0;0;0;0;Resampling from empirical distribution;Data set VII
+Grassland-rich region;GGI;Horse manure;NCB;0;0;0;0;Resampling from empirical distribution;Data set VII
+Grassland-rich region;GGI;Landscaping material;LCB;0;0;0;0;Resampling from empirical distribution;Data set VII
+Grassland-rich region;GGI;Maize grain;FCB;0;0;0;0;Resampling from empirical distribution;Data set VII
+Grassland-rich region;GGI;Maize whole crop;FCB;30.69;24.88;5.25;55.02;Resampling from empirical distribution;Data set VII
+Grassland-rich region;GGI;Permanent grassland;LCB;16.22;3.64;12.49;19.78;Resampling from empirical distribution;Data set VII
+Grassland-rich region;GGI;Pig manure;NCB;0;0;0;0;Resampling from empirical distribution;Data set VII
+Grassland-rich region;GGI;Pig slurry;NCB;0;0;0;0;Resampling from empirical distribution;Data set VII
+Grassland-rich region;GGI;Poultry manure;NCB;0;0;0;0;Resampling from empirical distribution;Data set VII
+Grassland-rich region;GGI;Sheep manure;NCB;0;0;0;0;Resampling from empirical distribution;Data set VII
+Grassland-rich region;GGI;Sugar beets;FCB;0;0;0;0;Resampling from empirical distribution;Data set VII
+Mixed farming region;CHP FCB;Beet leaf;LCB;0.02;0.01;0;0.02;Resampling from empirical distribution;Data set V
+Mixed farming region;CHP FCB;Cattle manure;NCB;5.14;0.3;3.92;6.05;Resampling from empirical distribution;Data set V
+Mixed farming region;CHP FCB;Cattle slurry;NCB;23.24;0.64;21.08;25.58;Resampling from empirical distribution;Data set V
+Mixed farming region;CHP FCB;Cereal grain;FCB;0.63;0.05;0.44;0.78;Resampling from empirical distribution;Data set V
+Mixed farming region;CHP FCB;Cereal straw;LCB;0.08;0.03;0;0.11;Resampling from empirical distribution;Data set V
+Mixed farming region;CHP FCB;Cereal whole crop;FCB;5.03;0.25;4.11;5.85;Resampling from empirical distribution;Data set V
+Mixed farming region;CHP FCB;Clover alfalfa grass mix;LCB;0.01;0.01;0;0.01;Resampling from empirical distribution;Data set V
+Mixed farming region;CHP FCB;Clover grass mix;LCB;0.07;0.03;0;0.1;Resampling from empirical distribution;Data set V
+Mixed farming region;CHP FCB;Cup plant;LCB;0.13;0.02;0.05;0.18;Resampling from empirical distribution;Data set V
+Mixed farming region;CHP FCB;Fodder beets;FCB;0;0;0;0.01;Resampling from empirical distribution;Data set V
+Mixed farming region;CHP FCB;Food processing waste;NCB;0.11;0.02;0;0.14;Resampling from empirical distribution;Data set V
+Mixed farming region;CHP FCB;Food waste;NCB;0;0;0;0;Resampling from empirical distribution;Data set V
+Mixed farming region;CHP FCB;Glycerine;NCB;0;0;0;0;Resampling from empirical distribution;Data set V
+Mixed farming region;CHP FCB;Grape pomace;NCB;0.02;0.01;0;0.02;Resampling from empirical distribution;Data set V
+Mixed farming region;CHP FCB;Grease trap;NCB;0;0;0;0;Resampling from empirical distribution;Data set V
+Mixed farming region;CHP FCB;Green rye;FCB;0.2;0.06;0.02;0.27;Resampling from empirical distribution;Data set V
+Mixed farming region;CHP FCB;Horse manure;NCB;0.06;0.01;0.01;0.07;Resampling from empirical distribution;Data set V
+Mixed farming region;CHP FCB;Landscaping material;LCB;0.28;0.14;0;0.38;Resampling from empirical distribution;Data set V
+Mixed farming region;CHP FCB;Legume cereal mix whole crop;FCB;0;0;0;0;Resampling from empirical distribution;Data set V
+Mixed farming region;CHP FCB;Legume grain;FCB;0;0;0;0;Resampling from empirical distribution;Data set V
+Mixed farming region;CHP FCB;Maize grain;FCB;0.83;0.09;0.41;1.02;Resampling from empirical distribution;Data set V
+Mixed farming region;CHP FCB;Maize straw;LCB;0.11;0.03;0.01;0.14;Resampling from empirical distribution;Data set V
+Mixed farming region;CHP FCB;Maize whole crop;FCB;47.9;0.5;45.79;49.86;Resampling from empirical distribution;Data set V
+Mixed farming region;CHP FCB;Permanent grassland;LCB;6.64;0.25;5.64;7.59;Resampling from empirical distribution;Data set V
+Mixed farming region;CHP FCB;Pig manure;NCB;0.16;0.05;0.01;0.22;Resampling from empirical distribution;Data set V
+Mixed farming region;CHP FCB;Pig slurry;NCB;5.92;0.45;4.04;7.32;Resampling from empirical distribution;Data set V
+Mixed farming region;CHP FCB;Potatoes;FCB;0.08;0.02;0.01;0.1;Resampling from empirical distribution;Data set V
+Mixed farming region;CHP FCB;Poultry manure;NCB;1.77;0.18;1.05;2.23;Resampling from empirical distribution;Data set V
+Mixed farming region;CHP FCB;Rapeseed whole crop;FCB;0;0;0;0;Resampling from empirical distribution;Data set V
+Mixed farming region;CHP FCB;Sheep manure;NCB;0.07;0.02;0;0.09;Resampling from empirical distribution;Data set V
+Mixed farming region;CHP FCB;Sorghum whole crop;FCB;0.06;0.01;0.01;0.08;Resampling from empirical distribution;Data set V
+Mixed farming region;CHP FCB;Sugar beets;FCB;1.45;0.17;0.62;1.83;Resampling from empirical distribution;Data set V
+Mixed farming region;CHP FCB;Sunflower whole crop;FCB;0;0;0;0;Resampling from empirical distribution;Data set V
+Mixed farming region;CHP FCB;Szarvasi whole crop;LCB;0;0;0;0;Resampling from empirical distribution;Data set V
+Mixed farming region;CHP NCB;Cattle manure;NCB;13.77;1.76;7.72;17.98;Resampling from empirical distribution;Data set VI
+Mixed farming region;CHP NCB;Cattle slurry;NCB;75.05;2.53;67.07;84.59;Resampling from empirical distribution;Data set VI
+Mixed farming region;CHP NCB;Cereal grain;FCB;0;0;0;0;Resampling from empirical distribution;Data set VI
+Mixed farming region;CHP NCB;Cereal whole crop;FCB;0.15;0.06;0;0.21;Resampling from empirical distribution;Data set VI
+Mixed farming region;CHP NCB;Fodder beets;FCB;0.08;0.04;0;0.12;Resampling from empirical distribution;Data set VI
+Mixed farming region;CHP NCB;Landscaping material;LCB;0.08;0.04;0;0.12;Resampling from empirical distribution;Data set VI
+Mixed farming region;CHP NCB;Maize grain;FCB;0.13;0.07;0;0.18;Resampling from empirical distribution;Data set VI
+Mixed farming region;CHP NCB;Maize whole crop;FCB;4.67;0.5;2.86;6.42;Resampling from empirical distribution;Data set VI
+Mixed farming region;CHP NCB;Permanent grassland;LCB;1.35;0.28;0.33;1.93;Resampling from empirical distribution;Data set VI
+Mixed farming region;CHP NCB;Pig slurry;NCB;4.33;1.68;0;6.21;Resampling from empirical distribution;Data set VI
+Mixed farming region;CHP NCB;Poultry manure;NCB;0.39;0.2;0;0.55;Resampling from empirical distribution;Data set VI
+Mixed farming region;GGI;Cattle manure;NCB;0.13;0.07;0;0.19;Resampling from empirical distribution;Data set VII
+Mixed farming region;GGI;Cattle slurry;NCB;0;0;0;0;Resampling from empirical distribution;Data set VII
+Mixed farming region;GGI;Cereal grain;FCB;0.42;0.1;0.14;0.62;Resampling from empirical distribution;Data set VII
+Mixed farming region;GGI;Cereal straw;LCB;0.04;0.02;0;0.06;Resampling from empirical distribution;Data set VII
+Mixed farming region;GGI;Cereal whole crop;FCB;11.99;1.54;8.4;16.82;Resampling from empirical distribution;Data set VII
+Mixed farming region;GGI;Clover grass mix;LCB;2.24;0.74;0;3.39;Resampling from empirical distribution;Data set VII
+Mixed farming region;GGI;Cup plant;LCB;0.1;0.05;0;0.14;Resampling from empirical distribution;Data set VII
+Mixed farming region;GGI;Food processing waste;NCB;0.1;0.04;0;0.16;Resampling from empirical distribution;Data set VII
+Mixed farming region;GGI;Hops chaff;NCB;6.68;3.47;0;9.51;Resampling from empirical distribution;Data set VII
+Mixed farming region;GGI;Horse manure;NCB;0.3;0.11;0;0.45;Resampling from empirical distribution;Data set VII
+Mixed farming region;GGI;Landscaping material;LCB;0.24;0.13;0;0.36;Resampling from empirical distribution;Data set VII
+Mixed farming region;GGI;Maize grain;FCB;0.85;0.29;0;1.2;Resampling from empirical distribution;Data set VII
+Mixed farming region;GGI;Maize whole crop;FCB;61.21;2.56;54.83;67.63;Resampling from empirical distribution;Data set VII
+Mixed farming region;GGI;Permanent grassland;LCB;12.75;1.15;9.86;15.68;Resampling from empirical distribution;Data set VII
+Mixed farming region;GGI;Pig manure;NCB;0.31;0.16;0;0.47;Resampling from empirical distribution;Data set VII
+Mixed farming region;GGI;Pig slurry;NCB;0;0;0;0;Resampling from empirical distribution;Data set VII
+Mixed farming region;GGI;Poultry manure;NCB;0.89;0.28;0;1.32;Resampling from empirical distribution;Data set VII
+Mixed farming region;GGI;Sheep manure;NCB;0.03;0.01;0;0.04;Resampling from empirical distribution;Data set VII
+Mixed farming region;GGI;Sugar beets;FCB;1.71;0.58;0;2.49;Resampling from empirical distribution;Data set VII
+Pure grassland region;CHP FCB;Beet leaf;LCB;0;0;0;0;Resampling from empirical distribution;Data set V
+Pure grassland region;CHP FCB;Cattle manure;NCB;4.01;1.62;0.67;6.55;Resampling from empirical distribution;Data set V
+Pure grassland region;CHP FCB;Cattle slurry;NCB;36.21;5.05;27.19;48.94;Resampling from empirical distribution;Data set V
+Pure grassland region;CHP FCB;Cereal grain;FCB;0.49;0.2;0.01;0.99;Resampling from empirical distribution;Data set V
+Pure grassland region;CHP FCB;Cereal straw;LCB;0;0;0;0;Resampling from empirical distribution;Data set V
+Pure grassland region;CHP FCB;Cereal whole crop;FCB;9.78;4.83;0.27;15.61;Resampling from empirical distribution;Data set V
+Pure grassland region;CHP FCB;Clover alfalfa grass mix;LCB;0;0;0;0;Resampling from empirical distribution;Data set V
+Pure grassland region;CHP FCB;Clover grass mix;LCB;0;0;0;0;Resampling from empirical distribution;Data set V
+Pure grassland region;CHP FCB;Cup plant;LCB;0;0;0;0;Resampling from empirical distribution;Data set V
+Pure grassland region;CHP FCB;Fodder beets;FCB;0;0;0;0;Resampling from empirical distribution;Data set V
+Pure grassland region;CHP FCB;Food processing waste;NCB;0;0;0;0;Resampling from empirical distribution;Data set V
+Pure grassland region;CHP FCB;Food waste;NCB;0;0;0;0;Resampling from empirical distribution;Data set V
+Pure grassland region;CHP FCB;Glycerine;NCB;0;0;0;0;Resampling from empirical distribution;Data set V
+Pure grassland region;CHP FCB;Grape pomace;NCB;0;0;0;0;Resampling from empirical distribution;Data set V
+Pure grassland region;CHP FCB;Grease trap;NCB;0;0;0;0;Resampling from empirical distribution;Data set V
+Pure grassland region;CHP FCB;Green rye;FCB;0.12;0.08;0;0.25;Resampling from empirical distribution;Data set V
+Pure grassland region;CHP FCB;Horse manure;NCB;0.46;0.29;0;0.81;Resampling from empirical distribution;Data set V
+Pure grassland region;CHP FCB;Landscaping material;LCB;0;0;0;0;Resampling from empirical distribution;Data set V
+Pure grassland region;CHP FCB;Legume cereal mix whole crop;FCB;0;0;0;0;Resampling from empirical distribution;Data set V
+Pure grassland region;CHP FCB;Legume grain;FCB;0;0;0;0;Resampling from empirical distribution;Data set V
+Pure grassland region;CHP FCB;Maize grain;FCB;1.67;0.53;0.44;2.97;Resampling from empirical distribution;Data set V
+Pure grassland region;CHP FCB;Maize straw;LCB;0;0;0;0;Resampling from empirical distribution;Data set V
+Pure grassland region;CHP FCB;Maize whole crop;FCB;24.75;3.82;15.58;32.84;Resampling from empirical distribution;Data set V
+Pure grassland region;CHP FCB;Permanent grassland;LCB;21.92;4.42;10.52;30.79;Resampling from empirical distribution;Data set V
+Pure grassland region;CHP FCB;Pig manure;NCB;0;0;0;0;Resampling from empirical distribution;Data set V
+Pure grassland region;CHP FCB;Pig slurry;NCB;0;0;0;0;Resampling from empirical distribution;Data set V
+Pure grassland region;CHP FCB;Potatoes;FCB;0;0;0;0;Resampling from empirical distribution;Data set V
+Pure grassland region;CHP FCB;Poultry manure;NCB;0.58;0.37;0;1.18;Resampling from empirical distribution;Data set V
+Pure grassland region;CHP FCB;Rapeseed whole crop;FCB;0;0;0;0;Resampling from empirical distribution;Data set V
+Pure grassland region;CHP FCB;Sheep manure;NCB;0;0;0;0;Resampling from empirical distribution;Data set V
+Pure grassland region;CHP FCB;Sorghum whole crop;FCB;0;0;0;0;Resampling from empirical distribution;Data set V
+Pure grassland region;CHP FCB;Sugar beets;FCB;0;0;0;0;Resampling from empirical distribution;Data set V
+Pure grassland region;CHP FCB;Sunflower whole crop;FCB;0;0;0;0;Resampling from empirical distribution;Data set V
+Pure grassland region;CHP FCB;Szarvasi whole crop;LCB;0;0;0;0;Resampling from empirical distribution;Data set V
+Pure grassland region;CHP NCB;Cattle manure;NCB;22.2;4.34;10.45;32.03;Resampling from empirical distribution;Data set VI
+Pure grassland region;CHP NCB;Cattle slurry;NCB;70.83;4.38;59.97;82.53;Resampling from empirical distribution;Data set VI
+Pure grassland region;CHP NCB;Cereal grain;FCB;0.08;0.05;0;0.13;Resampling from empirical distribution;Data set VI
+Pure grassland region;CHP NCB;Cereal whole crop;FCB;0.49;0.2;0;0.77;Resampling from empirical distribution;Data set VI
+Pure grassland region;CHP NCB;Fodder beets;FCB;0;0;0;0;Resampling from empirical distribution;Data set VI
+Pure grassland region;CHP NCB;Landscaping material;LCB;0;0;0;0;Resampling from empirical distribution;Data set VI
+Pure grassland region;CHP NCB;Maize grain;FCB;0.28;0.14;0;0.44;Resampling from empirical distribution;Data set VI
+Pure grassland region;CHP NCB;Maize whole crop;FCB;3.65;0.79;1.46;5.47;Resampling from empirical distribution;Data set VI
+Pure grassland region;CHP NCB;Permanent grassland;LCB;2.47;0.53;0.73;3.39;Resampling from empirical distribution;Data set VI
+Pure grassland region;CHP NCB;Pig slurry;NCB;0;0;0;0;Resampling from empirical distribution;Data set VI
+Pure grassland region;CHP NCB;Poultry manure;NCB;0;0;0;0;Resampling from empirical distribution;Data set VI
+Pure grassland region;GGI;Cattle manure;NCB;0;0;0;0;Resampling from empirical distribution;Data set VII
+Pure grassland region;GGI;Cattle slurry;NCB;0;0;0;0;Resampling from empirical distribution;Data set VII
+Pure grassland region;GGI;Cereal grain;FCB;0;0;0;0;Resampling from empirical distribution;Data set VII
+Pure grassland region;GGI;Cereal straw;LCB;0;0;0;0;Resampling from empirical distribution;Data set VII
+Pure grassland region;GGI;Cereal whole crop;FCB;0;0;0;0;Resampling from empirical distribution;Data set VII
+Pure grassland region;GGI;Clover grass mix;LCB;0;0;0;0;Resampling from empirical distribution;Data set VII
+Pure grassland region;GGI;Cup plant;LCB;0;0;0;0;Resampling from empirical distribution;Data set VII
+Pure grassland region;GGI;Food processing waste;NCB;0;0;0;0;Resampling from empirical distribution;Data set VII
+Pure grassland region;GGI;Hops chaff;NCB;0;0;0;0;Resampling from empirical distribution;Data set VII
+Pure grassland region;GGI;Horse manure;NCB;0;0;0;0;Resampling from empirical distribution;Data set VII
+Pure grassland region;GGI;Landscaping material;LCB;0;0;0;0;Resampling from empirical distribution;Data set VII
+Pure grassland region;GGI;Maize grain;FCB;0;0;0;0;Resampling from empirical distribution;Data set VII
+Pure grassland region;GGI;Maize whole crop;FCB;0;0;0;0;Resampling from empirical distribution;Data set VII
+Pure grassland region;GGI;Permanent grassland;LCB;0;0;0;0;Resampling from empirical distribution;Data set VII
+Pure grassland region;GGI;Pig manure;NCB;0;0;0;0;Resampling from empirical distribution;Data set VII
+Pure grassland region;GGI;Pig slurry;NCB;0;0;0;0;Resampling from empirical distribution;Data set VII
+Pure grassland region;GGI;Poultry manure;NCB;0;0;0;0;Resampling from empirical distribution;Data set VII
+Pure grassland region;GGI;Sheep manure;NCB;0;0;0;0;Resampling from empirical distribution;Data set VII
+Pure grassland region;GGI;Sugar beets;FCB;0;0;0;0;Resampling from empirical distribution;Data set VII

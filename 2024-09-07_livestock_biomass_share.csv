@@ -1,0 +1,362 @@
+Farming region type;Livestock type;Livestock;Biomass;Biomass class;Biomass share [% DM];Distribution;Source
+Arable farming region;Cattle;Calves up to 6 months;Cereal straw;LCB;3.5;Constant;Estimation by LfL experts
+Arable farming region;Cattle;Calves up to 6 months;Clover alfalfa grass mix;LCB;3;Constant;Estimation by LfL experts
+Arable farming region;Cattle;Calves up to 6 months;Clover grass mix;LCB;6;Constant;Estimation by LfL experts
+Arable farming region;Cattle;Calves up to 6 months;Field grass;FCB;1;Constant;Estimation by LfL experts
+Arable farming region;Cattle;Calves up to 6 months;Maize whole crop;FCB;76.5;Constant;Estimation by LfL experts
+Arable farming region;Cattle;Calves up to 6 months;Permanent grassland;LCB;10;Constant;Estimation by LfL experts
+Arable farming region;Cattle;Cows (dairy, suckler and nurse cows);Cereal straw;LCB;3;Constant;Estimation by LfL experts
+Arable farming region;Cattle;Cows (dairy, suckler and nurse cows);Clover alfalfa grass mix;LCB;4.5;Constant;Estimation by LfL experts
+Arable farming region;Cattle;Cows (dairy, suckler and nurse cows);Clover grass mix;LCB;9;Constant;Estimation by LfL experts
+Arable farming region;Cattle;Cows (dairy, suckler and nurse cows);Field grass;FCB;1.5;Constant;Estimation by LfL experts
+Arable farming region;Cattle;Cows (dairy, suckler and nurse cows);Maize whole crop;FCB;70;Constant;Estimation by LfL experts
+Arable farming region;Cattle;Cows (dairy, suckler and nurse cows);Permanent grassland;LCB;12;Constant;Estimation by LfL experts
+Arable farming region;Cattle;Female cattle over 1 year up to 2 years;Cereal straw;LCB;32;Constant;Estimation by LfL experts
+Arable farming region;Cattle;Female cattle over 1 year up to 2 years;Clover alfalfa grass mix;LCB;3.3;Constant;Estimation by LfL experts
+Arable farming region;Cattle;Female cattle over 1 year up to 2 years;Clover grass mix;LCB;6.6;Constant;Estimation by LfL experts
+Arable farming region;Cattle;Female cattle over 1 year up to 2 years;Field grass;FCB;1.1;Constant;Estimation by LfL experts
+Arable farming region;Cattle;Female cattle over 1 year up to 2 years;Maize whole crop;FCB;49;Constant;Estimation by LfL experts
+Arable farming region;Cattle;Female cattle over 1 year up to 2 years;Permanent grassland;LCB;8;Constant;Estimation by LfL experts
+Arable farming region;Cattle;Female cattle over 6 months up to 1 year;Cereal straw;LCB;3;Constant;Estimation by LfL experts
+Arable farming region;Cattle;Female cattle over 6 months up to 1 year;Clover alfalfa grass mix;LCB;4.5;Constant;Estimation by LfL experts
+Arable farming region;Cattle;Female cattle over 6 months up to 1 year;Clover grass mix;LCB;9;Constant;Estimation by LfL experts
+Arable farming region;Cattle;Female cattle over 6 months up to 1 year;Field grass;FCB;1.5;Constant;Estimation by LfL experts
+Arable farming region;Cattle;Female cattle over 6 months up to 1 year;Maize whole crop;FCB;70;Constant;Estimation by LfL experts
+Arable farming region;Cattle;Female cattle over 6 months up to 1 year;Permanent grassland;LCB;12;Constant;Estimation by LfL experts
+Arable farming region;Cattle;Male cattle over 1 year up to 2 years;Cereal straw;LCB;5;Constant;Estimation by LfL experts
+Arable farming region;Cattle;Male cattle over 1 year up to 2 years;Clover alfalfa grass mix;LCB;1.5;Constant;Estimation by LfL experts
+Arable farming region;Cattle;Male cattle over 1 year up to 2 years;Clover grass mix;LCB;3;Constant;Estimation by LfL experts
+Arable farming region;Cattle;Male cattle over 1 year up to 2 years;Field grass;FCB;0.5;Constant;Estimation by LfL experts
+Arable farming region;Cattle;Male cattle over 1 year up to 2 years;Maize whole crop;FCB;90;Constant;Estimation by LfL experts
+Arable farming region;Cattle;Male cattle over 1 year up to 2 years;Permanent grassland;LCB;0;Constant;Estimation by LfL experts
+Arable farming region;Cattle;Male cattle over 2 years, breeding bulls;Cereal straw;LCB;10;Constant;Estimation by LfL experts
+Arable farming region;Cattle;Male cattle over 2 years, breeding bulls;Clover alfalfa grass mix;LCB;6;Constant;Estimation by LfL experts
+Arable farming region;Cattle;Male cattle over 2 years, breeding bulls;Clover grass mix;LCB;12;Constant;Estimation by LfL experts
+Arable farming region;Cattle;Male cattle over 2 years, breeding bulls;Field grass;FCB;2;Constant;Estimation by LfL experts
+Arable farming region;Cattle;Male cattle over 2 years, breeding bulls;Maize whole crop;FCB;70;Constant;Estimation by LfL experts
+Arable farming region;Cattle;Male cattle over 2 years, breeding bulls;Permanent grassland;LCB;0;Constant;Estimation by LfL experts
+Arable farming region;Cattle;Male cattle over 6 months up to 1 year;Cereal straw;LCB;5;Constant;Estimation by LfL experts
+Arable farming region;Cattle;Male cattle over 6 months up to 1 year;Clover alfalfa grass mix;LCB;1.5;Constant;Estimation by LfL experts
+Arable farming region;Cattle;Male cattle over 6 months up to 1 year;Clover grass mix;LCB;3;Constant;Estimation by LfL experts
+Arable farming region;Cattle;Male cattle over 6 months up to 1 year;Field grass;FCB;0.5;Constant;Estimation by LfL experts
+Arable farming region;Cattle;Male cattle over 6 months up to 1 year;Maize whole crop;FCB;90;Constant;Estimation by LfL experts
+Arable farming region;Cattle;Male cattle over 6 months up to 1 year;Permanent grassland;LCB;0;Constant;Estimation by LfL experts
+Arable farming region;Cattle;Other female cattle over 2 years;Cereal straw;LCB;32;Constant;Estimation by LfL experts
+Arable farming region;Cattle;Other female cattle over 2 years;Clover alfalfa grass mix;LCB;3.3;Constant;Estimation by LfL experts
+Arable farming region;Cattle;Other female cattle over 2 years;Clover grass mix;LCB;6.6;Constant;Estimation by LfL experts
+Arable farming region;Cattle;Other female cattle over 2 years;Field grass;FCB;1.1;Constant;Estimation by LfL experts
+Arable farming region;Cattle;Other female cattle over 2 years;Maize whole crop;FCB;49;Constant;Estimation by LfL experts
+Arable farming region;Cattle;Other female cattle over 2 years;Permanent grassland;LCB;8;Constant;Estimation by LfL experts
+Arable farming region;Horses;Horses over 1 year;Cereal straw;LCB;0;Constant;Estimation by LfL experts
+Arable farming region;Horses;Horses over 1 year;Clover alfalfa grass mix;LCB;0;Constant;Estimation by LfL experts
+Arable farming region;Horses;Horses over 1 year;Clover grass mix;LCB;0;Constant;Estimation by LfL experts
+Arable farming region;Horses;Horses over 1 year;Field grass;FCB;0;Constant;Estimation by LfL experts
+Arable farming region;Horses;Horses over 1 year;Maize whole crop;FCB;0;Constant;Estimation by LfL experts
+Arable farming region;Horses;Horses over 1 year;Permanent grassland;LCB;100;Constant;Estimation by LfL experts
+Arable farming region;Horses;Horses up to 1 year, ponies, small horses;Cereal straw;LCB;0;Constant;Estimation by LfL experts
+Arable farming region;Horses;Horses up to 1 year, ponies, small horses;Clover alfalfa grass mix;LCB;0;Constant;Estimation by LfL experts
+Arable farming region;Horses;Horses up to 1 year, ponies, small horses;Clover grass mix;LCB;0;Constant;Estimation by LfL experts
+Arable farming region;Horses;Horses up to 1 year, ponies, small horses;Field grass;FCB;0;Constant;Estimation by LfL experts
+Arable farming region;Horses;Horses up to 1 year, ponies, small horses;Maize whole crop;FCB;0;Constant;Estimation by LfL experts
+Arable farming region;Horses;Horses up to 1 year, ponies, small horses;Permanent grassland;LCB;100;Constant;Estimation by LfL experts
+Arable farming region;Pigs;Breeding sows from 1st farrowing/pregnant gilts;Cereal grain;FCB;73;Constant;Estimation by LfL experts
+Arable farming region;Pigs;Fattening pigs (incl. boars) from 50 kg;Cereal grain;FCB;79;Constant;Estimation by LfL experts
+Arable farming region;Pigs;Other breeding pigs (without boar) from 50 kg;Cereal grain;FCB;79;Constant;Estimation by LfL experts
+Arable farming region;Pigs;Piglets up to under 30 kg;Cereal grain;FCB;66;Constant;Estimation by LfL experts
+Arable farming region;Pigs;Young pigs 30 to under 50 kg;Cereal grain;FCB;87;Constant;Estimation by LfL experts
+Arable farming region;Sheep;Ewes;Cereal straw;LCB;0;Constant;Estimation by LfL experts
+Arable farming region;Sheep;Ewes;Clover alfalfa grass mix;LCB;0;Constant;Estimation by LfL experts
+Arable farming region;Sheep;Ewes;Clover grass mix;LCB;0;Constant;Estimation by LfL experts
+Arable farming region;Sheep;Ewes;Field grass;FCB;0;Constant;Estimation by LfL experts
+Arable farming region;Sheep;Ewes;Maize whole crop;FCB;0;Constant;Estimation by LfL experts
+Arable farming region;Sheep;Ewes;Permanent grassland;LCB;100;Constant;Estimation by LfL experts
+Arable farming region;Sheep;Other sheep over 1 year, mutton;Cereal straw;LCB;0;Constant;Estimation by LfL experts
+Arable farming region;Sheep;Other sheep over 1 year, mutton;Clover alfalfa grass mix;LCB;0;Constant;Estimation by LfL experts
+Arable farming region;Sheep;Other sheep over 1 year, mutton;Clover grass mix;LCB;0;Constant;Estimation by LfL experts
+Arable farming region;Sheep;Other sheep over 1 year, mutton;Field grass;FCB;0;Constant;Estimation by LfL experts
+Arable farming region;Sheep;Other sheep over 1 year, mutton;Maize whole crop;FCB;0;Constant;Estimation by LfL experts
+Arable farming region;Sheep;Other sheep over 1 year, mutton;Permanent grassland;LCB;100;Constant;Estimation by LfL experts
+Arable farming region;Sheep;Rams for breeding;Cereal straw;LCB;0;Constant;Estimation by LfL experts
+Arable farming region;Sheep;Rams for breeding;Clover alfalfa grass mix;LCB;0;Constant;Estimation by LfL experts
+Arable farming region;Sheep;Rams for breeding;Clover grass mix;LCB;0;Constant;Estimation by LfL experts
+Arable farming region;Sheep;Rams for breeding;Field grass;FCB;0;Constant;Estimation by LfL experts
+Arable farming region;Sheep;Rams for breeding;Maize whole crop;FCB;0;Constant;Estimation by LfL experts
+Arable farming region;Sheep;Rams for breeding;Permanent grassland;LCB;100;Constant;Estimation by LfL experts
+Arable farming region;Sheep;Sheeps up to 1 year, including lambs;Cereal straw;LCB;0;Constant;Estimation by LfL experts
+Arable farming region;Sheep;Sheeps up to 1 year, including lambs;Clover alfalfa grass mix;LCB;0;Constant;Estimation by LfL experts
+Arable farming region;Sheep;Sheeps up to 1 year, including lambs;Clover grass mix;LCB;0;Constant;Estimation by LfL experts
+Arable farming region;Sheep;Sheeps up to 1 year, including lambs;Field grass;FCB;0;Constant;Estimation by LfL experts
+Arable farming region;Sheep;Sheeps up to 1 year, including lambs;Maize whole crop;FCB;0;Constant;Estimation by LfL experts
+Arable farming region;Sheep;Sheeps up to 1 year, including lambs;Permanent grassland;LCB;100;Constant;Estimation by LfL experts
+Grassland-rich region;Cattle;Calves up to 6 months;Cereal straw;LCB;3.5;Constant;Estimation by LfL experts
+Grassland-rich region;Cattle;Calves up to 6 months;Clover alfalfa grass mix;LCB;0.9;Constant;Estimation by LfL experts
+Grassland-rich region;Cattle;Calves up to 6 months;Clover grass mix;LCB;1.8;Constant;Estimation by LfL experts
+Grassland-rich region;Cattle;Calves up to 6 months;Field grass;FCB;0.3;Constant;Estimation by LfL experts
+Grassland-rich region;Cattle;Calves up to 6 months;Maize whole crop;FCB;47.5;Constant;Estimation by LfL experts
+Grassland-rich region;Cattle;Calves up to 6 months;Permanent grassland;LCB;46;Constant;Estimation by LfL experts
+Grassland-rich region;Cattle;Cows (dairy, suckler and nurse cows);Cereal straw;LCB;3;Constant;Estimation by LfL experts
+Grassland-rich region;Cattle;Cows (dairy, suckler and nurse cows);Clover alfalfa grass mix;LCB;1.5;Constant;Estimation by LfL experts
+Grassland-rich region;Cattle;Cows (dairy, suckler and nurse cows);Clover grass mix;LCB;3;Constant;Estimation by LfL experts
+Grassland-rich region;Cattle;Cows (dairy, suckler and nurse cows);Field grass;FCB;0.5;Constant;Estimation by LfL experts
+Grassland-rich region;Cattle;Cows (dairy, suckler and nurse cows);Maize whole crop;FCB;25;Constant;Estimation by LfL experts
+Grassland-rich region;Cattle;Cows (dairy, suckler and nurse cows);Permanent grassland;LCB;67;Constant;Estimation by LfL experts
+Grassland-rich region;Cattle;Female cattle over 1 year up to 2 years;Cereal straw;LCB;5;Constant;Estimation by LfL experts
+Grassland-rich region;Cattle;Female cattle over 1 year up to 2 years;Clover alfalfa grass mix;LCB;0;Constant;Estimation by LfL experts
+Grassland-rich region;Cattle;Female cattle over 1 year up to 2 years;Clover grass mix;LCB;0;Constant;Estimation by LfL experts
+Grassland-rich region;Cattle;Female cattle over 1 year up to 2 years;Field grass;FCB;0;Constant;Estimation by LfL experts
+Grassland-rich region;Cattle;Female cattle over 1 year up to 2 years;Maize whole crop;FCB;0;Constant;Estimation by LfL experts
+Grassland-rich region;Cattle;Female cattle over 1 year up to 2 years;Permanent grassland;LCB;95;Constant;Estimation by LfL experts
+Grassland-rich region;Cattle;Female cattle over 6 months up to 1 year;Cereal straw;LCB;3;Constant;Estimation by LfL experts
+Grassland-rich region;Cattle;Female cattle over 6 months up to 1 year;Clover alfalfa grass mix;LCB;1.5;Constant;Estimation by LfL experts
+Grassland-rich region;Cattle;Female cattle over 6 months up to 1 year;Clover grass mix;LCB;3;Constant;Estimation by LfL experts
+Grassland-rich region;Cattle;Female cattle over 6 months up to 1 year;Field grass;FCB;0.5;Constant;Estimation by LfL experts
+Grassland-rich region;Cattle;Female cattle over 6 months up to 1 year;Maize whole crop;FCB;25;Constant;Estimation by LfL experts
+Grassland-rich region;Cattle;Female cattle over 6 months up to 1 year;Permanent grassland;LCB;67;Constant;Estimation by LfL experts
+Grassland-rich region;Cattle;Male cattle over 1 year up to 2 years;Cereal straw;LCB;5;Constant;Estimation by LfL experts
+Grassland-rich region;Cattle;Male cattle over 1 year up to 2 years;Clover alfalfa grass mix;LCB;0;Constant;Estimation by LfL experts
+Grassland-rich region;Cattle;Male cattle over 1 year up to 2 years;Clover grass mix;LCB;0;Constant;Estimation by LfL experts
+Grassland-rich region;Cattle;Male cattle over 1 year up to 2 years;Field grass;FCB;0;Constant;Estimation by LfL experts
+Grassland-rich region;Cattle;Male cattle over 1 year up to 2 years;Maize whole crop;FCB;80;Constant;Estimation by LfL experts
+Grassland-rich region;Cattle;Male cattle over 1 year up to 2 years;Permanent grassland;LCB;15;Constant;Estimation by LfL experts
+Grassland-rich region;Cattle;Male cattle over 2 years, breeding bulls;Cereal straw;LCB;5;Constant;Estimation by LfL experts
+Grassland-rich region;Cattle;Male cattle over 2 years, breeding bulls;Clover alfalfa grass mix;LCB;0;Constant;Estimation by LfL experts
+Grassland-rich region;Cattle;Male cattle over 2 years, breeding bulls;Clover grass mix;LCB;0;Constant;Estimation by LfL experts
+Grassland-rich region;Cattle;Male cattle over 2 years, breeding bulls;Field grass;FCB;0;Constant;Estimation by LfL experts
+Grassland-rich region;Cattle;Male cattle over 2 years, breeding bulls;Maize whole crop;FCB;15;Constant;Estimation by LfL experts
+Grassland-rich region;Cattle;Male cattle over 2 years, breeding bulls;Permanent grassland;LCB;80;Constant;Estimation by LfL experts
+Grassland-rich region;Cattle;Male cattle over 6 months up to 1 year;Cereal straw;LCB;5;Constant;Estimation by LfL experts
+Grassland-rich region;Cattle;Male cattle over 6 months up to 1 year;Clover alfalfa grass mix;LCB;0;Constant;Estimation by LfL experts
+Grassland-rich region;Cattle;Male cattle over 6 months up to 1 year;Clover grass mix;LCB;0;Constant;Estimation by LfL experts
+Grassland-rich region;Cattle;Male cattle over 6 months up to 1 year;Field grass;FCB;0;Constant;Estimation by LfL experts
+Grassland-rich region;Cattle;Male cattle over 6 months up to 1 year;Maize whole crop;FCB;80;Constant;Estimation by LfL experts
+Grassland-rich region;Cattle;Male cattle over 6 months up to 1 year;Permanent grassland;LCB;15;Constant;Estimation by LfL experts
+Grassland-rich region;Cattle;Other female cattle over 2 years;Cereal straw;LCB;5;Constant;Estimation by LfL experts
+Grassland-rich region;Cattle;Other female cattle over 2 years;Clover alfalfa grass mix;LCB;0;Constant;Estimation by LfL experts
+Grassland-rich region;Cattle;Other female cattle over 2 years;Clover grass mix;LCB;0;Constant;Estimation by LfL experts
+Grassland-rich region;Cattle;Other female cattle over 2 years;Field grass;FCB;0;Constant;Estimation by LfL experts
+Grassland-rich region;Cattle;Other female cattle over 2 years;Maize whole crop;FCB;0;Constant;Estimation by LfL experts
+Grassland-rich region;Cattle;Other female cattle over 2 years;Permanent grassland;LCB;95;Constant;Estimation by LfL experts
+Grassland-rich region;Horses;Horses over 1 year;Cereal straw;LCB;0;Constant;Estimation by LfL experts
+Grassland-rich region;Horses;Horses over 1 year;Clover alfalfa grass mix;LCB;0;Constant;Estimation by LfL experts
+Grassland-rich region;Horses;Horses over 1 year;Clover grass mix;LCB;0;Constant;Estimation by LfL experts
+Grassland-rich region;Horses;Horses over 1 year;Field grass;FCB;0;Constant;Estimation by LfL experts
+Grassland-rich region;Horses;Horses over 1 year;Maize whole crop;FCB;0;Constant;Estimation by LfL experts
+Grassland-rich region;Horses;Horses over 1 year;Permanent grassland;LCB;100;Constant;Estimation by LfL experts
+Grassland-rich region;Horses;Horses up to 1 year, ponies, small horses;Cereal straw;LCB;0;Constant;Estimation by LfL experts
+Grassland-rich region;Horses;Horses up to 1 year, ponies, small horses;Clover alfalfa grass mix;LCB;0;Constant;Estimation by LfL experts
+Grassland-rich region;Horses;Horses up to 1 year, ponies, small horses;Clover grass mix;LCB;0;Constant;Estimation by LfL experts
+Grassland-rich region;Horses;Horses up to 1 year, ponies, small horses;Field grass;FCB;0;Constant;Estimation by LfL experts
+Grassland-rich region;Horses;Horses up to 1 year, ponies, small horses;Maize whole crop;FCB;0;Constant;Estimation by LfL experts
+Grassland-rich region;Horses;Horses up to 1 year, ponies, small horses;Permanent grassland;LCB;100;Constant;Estimation by LfL experts
+Grassland-rich region;Pigs;Breeding sows from 1st farrowing/pregnant gilts;Cereal grain;FCB;73;Constant;Estimation by LfL experts
+Grassland-rich region;Pigs;Fattening pigs (incl. boars) from 50 kg;Cereal grain;FCB;79;Constant;Estimation by LfL experts
+Grassland-rich region;Pigs;Other breeding pigs (without boar) from 50 kg;Cereal grain;FCB;79;Constant;Estimation by LfL experts
+Grassland-rich region;Pigs;Piglets up to under 30 kg;Cereal grain;FCB;66;Constant;Estimation by LfL experts
+Grassland-rich region;Pigs;Young pigs 30 to under 50 kg;Cereal grain;FCB;87;Constant;Estimation by LfL experts
+Grassland-rich region;Sheep;Ewes;Cereal straw;LCB;0;Constant;Estimation by LfL experts
+Grassland-rich region;Sheep;Ewes;Clover alfalfa grass mix;LCB;0;Constant;Estimation by LfL experts
+Grassland-rich region;Sheep;Ewes;Clover grass mix;LCB;0;Constant;Estimation by LfL experts
+Grassland-rich region;Sheep;Ewes;Field grass;FCB;0;Constant;Estimation by LfL experts
+Grassland-rich region;Sheep;Ewes;Maize whole crop;FCB;0;Constant;Estimation by LfL experts
+Grassland-rich region;Sheep;Ewes;Permanent grassland;LCB;100;Constant;Estimation by LfL experts
+Grassland-rich region;Sheep;Other sheep over 1 year, mutton;Cereal straw;LCB;0;Constant;Estimation by LfL experts
+Grassland-rich region;Sheep;Other sheep over 1 year, mutton;Clover alfalfa grass mix;LCB;0;Constant;Estimation by LfL experts
+Grassland-rich region;Sheep;Other sheep over 1 year, mutton;Clover grass mix;LCB;0;Constant;Estimation by LfL experts
+Grassland-rich region;Sheep;Other sheep over 1 year, mutton;Field grass;FCB;0;Constant;Estimation by LfL experts
+Grassland-rich region;Sheep;Other sheep over 1 year, mutton;Maize whole crop;FCB;0;Constant;Estimation by LfL experts
+Grassland-rich region;Sheep;Other sheep over 1 year, mutton;Permanent grassland;LCB;100;Constant;Estimation by LfL experts
+Grassland-rich region;Sheep;Rams for breeding;Cereal straw;LCB;0;Constant;Estimation by LfL experts
+Grassland-rich region;Sheep;Rams for breeding;Clover alfalfa grass mix;LCB;0;Constant;Estimation by LfL experts
+Grassland-rich region;Sheep;Rams for breeding;Clover grass mix;LCB;0;Constant;Estimation by LfL experts
+Grassland-rich region;Sheep;Rams for breeding;Field grass;FCB;0;Constant;Estimation by LfL experts
+Grassland-rich region;Sheep;Rams for breeding;Maize whole crop;FCB;0;Constant;Estimation by LfL experts
+Grassland-rich region;Sheep;Rams for breeding;Permanent grassland;LCB;100;Constant;Estimation by LfL experts
+Grassland-rich region;Sheep;Sheeps up to 1 year, including lambs;Cereal straw;LCB;0;Constant;Estimation by LfL experts
+Grassland-rich region;Sheep;Sheeps up to 1 year, including lambs;Clover alfalfa grass mix;LCB;0;Constant;Estimation by LfL experts
+Grassland-rich region;Sheep;Sheeps up to 1 year, including lambs;Clover grass mix;LCB;0;Constant;Estimation by LfL experts
+Grassland-rich region;Sheep;Sheeps up to 1 year, including lambs;Field grass;FCB;0;Constant;Estimation by LfL experts
+Grassland-rich region;Sheep;Sheeps up to 1 year, including lambs;Maize whole crop;FCB;0;Constant;Estimation by LfL experts
+Grassland-rich region;Sheep;Sheeps up to 1 year, including lambs;Permanent grassland;LCB;100;Constant;Estimation by LfL experts
+Mixed farming region;Cattle;Calves up to 6 months;Cereal straw;LCB;3.5;Constant;Estimation by LfL experts
+Mixed farming region;Cattle;Calves up to 6 months;Clover alfalfa grass mix;LCB;2.1;Constant;Estimation by LfL experts
+Mixed farming region;Cattle;Calves up to 6 months;Clover grass mix;LCB;4.2;Constant;Estimation by LfL experts
+Mixed farming region;Cattle;Calves up to 6 months;Field grass;FCB;0.7;Constant;Estimation by LfL experts
+Mixed farming region;Cattle;Calves up to 6 months;Maize whole crop;FCB;63.5;Constant;Estimation by LfL experts
+Mixed farming region;Cattle;Calves up to 6 months;Permanent grassland;LCB;26;Constant;Estimation by LfL experts
+Mixed farming region;Cattle;Cows (dairy, suckler and nurse cows);Cereal straw;LCB;3;Constant;Estimation by LfL experts
+Mixed farming region;Cattle;Cows (dairy, suckler and nurse cows);Clover alfalfa grass mix;LCB;3;Constant;Estimation by LfL experts
+Mixed farming region;Cattle;Cows (dairy, suckler and nurse cows);Clover grass mix;LCB;6;Constant;Estimation by LfL experts
+Mixed farming region;Cattle;Cows (dairy, suckler and nurse cows);Field grass;FCB;1;Constant;Estimation by LfL experts
+Mixed farming region;Cattle;Cows (dairy, suckler and nurse cows);Maize whole crop;FCB;50;Constant;Estimation by LfL experts
+Mixed farming region;Cattle;Cows (dairy, suckler and nurse cows);Permanent grassland;LCB;37;Constant;Estimation by LfL experts
+Mixed farming region;Cattle;Female cattle over 1 year up to 2 years;Cereal straw;LCB;20;Constant;Estimation by LfL experts
+Mixed farming region;Cattle;Female cattle over 1 year up to 2 years;Clover alfalfa grass mix;LCB;2.1;Constant;Estimation by LfL experts
+Mixed farming region;Cattle;Female cattle over 1 year up to 2 years;Clover grass mix;LCB;4.2;Constant;Estimation by LfL experts
+Mixed farming region;Cattle;Female cattle over 1 year up to 2 years;Field grass;FCB;0.7;Constant;Estimation by LfL experts
+Mixed farming region;Cattle;Female cattle over 1 year up to 2 years;Maize whole crop;FCB;10;Constant;Estimation by LfL experts
+Mixed farming region;Cattle;Female cattle over 1 year up to 2 years;Permanent grassland;LCB;63;Constant;Estimation by LfL experts
+Mixed farming region;Cattle;Female cattle over 6 months up to 1 year;Cereal straw;LCB;3;Constant;Estimation by LfL experts
+Mixed farming region;Cattle;Female cattle over 6 months up to 1 year;Clover alfalfa grass mix;LCB;3;Constant;Estimation by LfL experts
+Mixed farming region;Cattle;Female cattle over 6 months up to 1 year;Clover grass mix;LCB;6;Constant;Estimation by LfL experts
+Mixed farming region;Cattle;Female cattle over 6 months up to 1 year;Field grass;FCB;1;Constant;Estimation by LfL experts
+Mixed farming region;Cattle;Female cattle over 6 months up to 1 year;Maize whole crop;FCB;50;Constant;Estimation by LfL experts
+Mixed farming region;Cattle;Female cattle over 6 months up to 1 year;Permanent grassland;LCB;37;Constant;Estimation by LfL experts
+Mixed farming region;Cattle;Male cattle over 1 year up to 2 years;Cereal straw;LCB;5;Constant;Estimation by LfL experts
+Mixed farming region;Cattle;Male cattle over 1 year up to 2 years;Clover alfalfa grass mix;LCB;1.5;Constant;Estimation by LfL experts
+Mixed farming region;Cattle;Male cattle over 1 year up to 2 years;Clover grass mix;LCB;3;Constant;Estimation by LfL experts
+Mixed farming region;Cattle;Male cattle over 1 year up to 2 years;Field grass;FCB;0.5;Constant;Estimation by LfL experts
+Mixed farming region;Cattle;Male cattle over 1 year up to 2 years;Maize whole crop;FCB;85;Constant;Estimation by LfL experts
+Mixed farming region;Cattle;Male cattle over 1 year up to 2 years;Permanent grassland;LCB;5;Constant;Estimation by LfL experts
+Mixed farming region;Cattle;Male cattle over 2 years, breeding bulls;Cereal straw;LCB;5;Constant;Estimation by LfL experts
+Mixed farming region;Cattle;Male cattle over 2 years, breeding bulls;Clover alfalfa grass mix;LCB;1.5;Constant;Estimation by LfL experts
+Mixed farming region;Cattle;Male cattle over 2 years, breeding bulls;Clover grass mix;LCB;3;Constant;Estimation by LfL experts
+Mixed farming region;Cattle;Male cattle over 2 years, breeding bulls;Field grass;FCB;0.5;Constant;Estimation by LfL experts
+Mixed farming region;Cattle;Male cattle over 2 years, breeding bulls;Maize whole crop;FCB;45;Constant;Estimation by LfL experts
+Mixed farming region;Cattle;Male cattle over 2 years, breeding bulls;Permanent grassland;LCB;45;Constant;Estimation by LfL experts
+Mixed farming region;Cattle;Male cattle over 6 months up to 1 year;Cereal straw;LCB;5;Constant;Estimation by LfL experts
+Mixed farming region;Cattle;Male cattle over 6 months up to 1 year;Clover alfalfa grass mix;LCB;1.5;Constant;Estimation by LfL experts
+Mixed farming region;Cattle;Male cattle over 6 months up to 1 year;Clover grass mix;LCB;3;Constant;Estimation by LfL experts
+Mixed farming region;Cattle;Male cattle over 6 months up to 1 year;Field grass;FCB;0.5;Constant;Estimation by LfL experts
+Mixed farming region;Cattle;Male cattle over 6 months up to 1 year;Maize whole crop;FCB;85;Constant;Estimation by LfL experts
+Mixed farming region;Cattle;Male cattle over 6 months up to 1 year;Permanent grassland;LCB;5;Constant;Estimation by LfL experts
+Mixed farming region;Cattle;Other female cattle over 2 years;Cereal straw;LCB;20;Constant;Estimation by LfL experts
+Mixed farming region;Cattle;Other female cattle over 2 years;Clover alfalfa grass mix;LCB;2.1;Constant;Estimation by LfL experts
+Mixed farming region;Cattle;Other female cattle over 2 years;Clover grass mix;LCB;4.2;Constant;Estimation by LfL experts
+Mixed farming region;Cattle;Other female cattle over 2 years;Field grass;FCB;0.7;Constant;Estimation by LfL experts
+Mixed farming region;Cattle;Other female cattle over 2 years;Maize whole crop;FCB;10;Constant;Estimation by LfL experts
+Mixed farming region;Cattle;Other female cattle over 2 years;Permanent grassland;LCB;63;Constant;Estimation by LfL experts
+Mixed farming region;Horses;Horses over 1 year;Cereal straw;LCB;0;Constant;Estimation by LfL experts
+Mixed farming region;Horses;Horses over 1 year;Clover alfalfa grass mix;LCB;0;Constant;Estimation by LfL experts
+Mixed farming region;Horses;Horses over 1 year;Clover grass mix;LCB;0;Constant;Estimation by LfL experts
+Mixed farming region;Horses;Horses over 1 year;Field grass;FCB;0;Constant;Estimation by LfL experts
+Mixed farming region;Horses;Horses over 1 year;Maize whole crop;FCB;0;Constant;Estimation by LfL experts
+Mixed farming region;Horses;Horses over 1 year;Permanent grassland;LCB;100;Constant;Estimation by LfL experts
+Mixed farming region;Horses;Horses up to 1 year, ponies, small horses;Cereal straw;LCB;0;Constant;Estimation by LfL experts
+Mixed farming region;Horses;Horses up to 1 year, ponies, small horses;Clover alfalfa grass mix;LCB;0;Constant;Estimation by LfL experts
+Mixed farming region;Horses;Horses up to 1 year, ponies, small horses;Clover grass mix;LCB;0;Constant;Estimation by LfL experts
+Mixed farming region;Horses;Horses up to 1 year, ponies, small horses;Field grass;FCB;0;Constant;Estimation by LfL experts
+Mixed farming region;Horses;Horses up to 1 year, ponies, small horses;Maize whole crop;FCB;0;Constant;Estimation by LfL experts
+Mixed farming region;Horses;Horses up to 1 year, ponies, small horses;Permanent grassland;LCB;100;Constant;Estimation by LfL experts
+Mixed farming region;Pigs;Breeding sows from 1st farrowing/pregnant gilts;Cereal grain;FCB;36.5;Constant;Estimation by LfL experts
+Mixed farming region;Pigs;Breeding sows from 1st farrowing/pregnant gilts;Maize grain;FCB;36.5;Constant;Estimation by LfL experts
+Mixed farming region;Pigs;Fattening pigs (incl. boars) from 50 kg;Cereal grain;FCB;39.5;Constant;Estimation by LfL experts
+Mixed farming region;Pigs;Fattening pigs (incl. boars) from 50 kg;Maize grain;FCB;39.5;Constant;Estimation by LfL experts
+Mixed farming region;Pigs;Other breeding pigs (without boar) from 50 kg;Cereal grain;FCB;39.5;Constant;Estimation by LfL experts
+Mixed farming region;Pigs;Other breeding pigs (without boar) from 50 kg;Maize grain;FCB;39.5;Constant;Estimation by LfL experts
+Mixed farming region;Pigs;Piglets up to under 30 kg;Cereal grain;FCB;33;Constant;Estimation by LfL experts
+Mixed farming region;Pigs;Piglets up to under 30 kg;Maize grain;FCB;33;Constant;Estimation by LfL experts
+Mixed farming region;Pigs;Young pigs 30 to under 50 kg;Cereal grain;FCB;43.5;Constant;Estimation by LfL experts
+Mixed farming region;Pigs;Young pigs 30 to under 50 kg;Maize grain;FCB;43.5;Constant;Estimation by LfL experts
+Mixed farming region;Sheep;Ewes;Cereal straw;LCB;0;Constant;Estimation by LfL experts
+Mixed farming region;Sheep;Ewes;Clover alfalfa grass mix;LCB;0;Constant;Estimation by LfL experts
+Mixed farming region;Sheep;Ewes;Clover grass mix;LCB;0;Constant;Estimation by LfL experts
+Mixed farming region;Sheep;Ewes;Field grass;FCB;0;Constant;Estimation by LfL experts
+Mixed farming region;Sheep;Ewes;Maize whole crop;FCB;0;Constant;Estimation by LfL experts
+Mixed farming region;Sheep;Ewes;Permanent grassland;LCB;100;Constant;Estimation by LfL experts
+Mixed farming region;Sheep;Other sheep over 1 year, mutton;Cereal straw;LCB;0;Constant;Estimation by LfL experts
+Mixed farming region;Sheep;Other sheep over 1 year, mutton;Clover alfalfa grass mix;LCB;0;Constant;Estimation by LfL experts
+Mixed farming region;Sheep;Other sheep over 1 year, mutton;Clover grass mix;LCB;0;Constant;Estimation by LfL experts
+Mixed farming region;Sheep;Other sheep over 1 year, mutton;Field grass;FCB;0;Constant;Estimation by LfL experts
+Mixed farming region;Sheep;Other sheep over 1 year, mutton;Maize whole crop;FCB;0;Constant;Estimation by LfL experts
+Mixed farming region;Sheep;Other sheep over 1 year, mutton;Permanent grassland;LCB;100;Constant;Estimation by LfL experts
+Mixed farming region;Sheep;Rams for breeding;Cereal straw;LCB;0;Constant;Estimation by LfL experts
+Mixed farming region;Sheep;Rams for breeding;Clover alfalfa grass mix;LCB;0;Constant;Estimation by LfL experts
+Mixed farming region;Sheep;Rams for breeding;Clover grass mix;LCB;0;Constant;Estimation by LfL experts
+Mixed farming region;Sheep;Rams for breeding;Field grass;FCB;0;Constant;Estimation by LfL experts
+Mixed farming region;Sheep;Rams for breeding;Maize whole crop;FCB;0;Constant;Estimation by LfL experts
+Mixed farming region;Sheep;Rams for breeding;Permanent grassland;LCB;100;Constant;Estimation by LfL experts
+Mixed farming region;Sheep;Sheeps up to 1 year, including lambs;Cereal straw;LCB;0;Constant;Estimation by LfL experts
+Mixed farming region;Sheep;Sheeps up to 1 year, including lambs;Clover alfalfa grass mix;LCB;0;Constant;Estimation by LfL experts
+Mixed farming region;Sheep;Sheeps up to 1 year, including lambs;Clover grass mix;LCB;0;Constant;Estimation by LfL experts
+Mixed farming region;Sheep;Sheeps up to 1 year, including lambs;Field grass;FCB;0;Constant;Estimation by LfL experts
+Mixed farming region;Sheep;Sheeps up to 1 year, including lambs;Maize whole crop;FCB;0;Constant;Estimation by LfL experts
+Mixed farming region;Sheep;Sheeps up to 1 year, including lambs;Permanent grassland;LCB;100;Constant;Estimation by LfL experts
+Pure grassland region;Cattle;Calves up to 6 months;Cereal straw;LCB;3.5;Constant;Estimation by LfL experts
+Pure grassland region;Cattle;Calves up to 6 months;Clover alfalfa grass mix;LCB;0;Constant;Estimation by LfL experts
+Pure grassland region;Cattle;Calves up to 6 months;Clover grass mix;LCB;0;Constant;Estimation by LfL experts
+Pure grassland region;Cattle;Calves up to 6 months;Field grass;FCB;0;Constant;Estimation by LfL experts
+Pure grassland region;Cattle;Calves up to 6 months;Maize whole crop;FCB;29.5;Constant;Estimation by LfL experts
+Pure grassland region;Cattle;Calves up to 6 months;Permanent grassland;LCB;67;Constant;Estimation by LfL experts
+Pure grassland region;Cattle;Cows (dairy, suckler and nurse cows);Cereal straw;LCB;3;Constant;Estimation by LfL experts
+Pure grassland region;Cattle;Cows (dairy, suckler and nurse cows);Clover alfalfa grass mix;LCB;0;Constant;Estimation by LfL experts
+Pure grassland region;Cattle;Cows (dairy, suckler and nurse cows);Clover grass mix;LCB;0;Constant;Estimation by LfL experts
+Pure grassland region;Cattle;Cows (dairy, suckler and nurse cows);Field grass;FCB;0;Constant;Estimation by LfL experts
+Pure grassland region;Cattle;Cows (dairy, suckler and nurse cows);Maize whole crop;FCB;0;Constant;Estimation by LfL experts
+Pure grassland region;Cattle;Cows (dairy, suckler and nurse cows);Permanent grassland;LCB;97;Constant;Estimation by LfL experts
+Pure grassland region;Cattle;Female cattle over 1 year up to 2 years;Cereal straw;LCB;5;Constant;Estimation by LfL experts
+Pure grassland region;Cattle;Female cattle over 1 year up to 2 years;Clover alfalfa grass mix;LCB;0;Constant;Estimation by LfL experts
+Pure grassland region;Cattle;Female cattle over 1 year up to 2 years;Clover grass mix;LCB;0;Constant;Estimation by LfL experts
+Pure grassland region;Cattle;Female cattle over 1 year up to 2 years;Field grass;FCB;0;Constant;Estimation by LfL experts
+Pure grassland region;Cattle;Female cattle over 1 year up to 2 years;Maize whole crop;FCB;0;Constant;Estimation by LfL experts
+Pure grassland region;Cattle;Female cattle over 1 year up to 2 years;Permanent grassland;LCB;95;Constant;Estimation by LfL experts
+Pure grassland region;Cattle;Female cattle over 6 months up to 1 year;Cereal straw;LCB;3;Constant;Estimation by LfL experts
+Pure grassland region;Cattle;Female cattle over 6 months up to 1 year;Clover alfalfa grass mix;LCB;0;Constant;Estimation by LfL experts
+Pure grassland region;Cattle;Female cattle over 6 months up to 1 year;Clover grass mix;LCB;0;Constant;Estimation by LfL experts
+Pure grassland region;Cattle;Female cattle over 6 months up to 1 year;Field grass;FCB;0;Constant;Estimation by LfL experts
+Pure grassland region;Cattle;Female cattle over 6 months up to 1 year;Maize whole crop;FCB;0;Constant;Estimation by LfL experts
+Pure grassland region;Cattle;Female cattle over 6 months up to 1 year;Permanent grassland;LCB;97;Constant;Estimation by LfL experts
+Pure grassland region;Cattle;Male cattle over 1 year up to 2 years;Cereal straw;LCB;5;Constant;Estimation by LfL experts
+Pure grassland region;Cattle;Male cattle over 1 year up to 2 years;Clover alfalfa grass mix;LCB;0;Constant;Estimation by LfL experts
+Pure grassland region;Cattle;Male cattle over 1 year up to 2 years;Clover grass mix;LCB;0;Constant;Estimation by LfL experts
+Pure grassland region;Cattle;Male cattle over 1 year up to 2 years;Field grass;FCB;0;Constant;Estimation by LfL experts
+Pure grassland region;Cattle;Male cattle over 1 year up to 2 years;Maize whole crop;FCB;80;Constant;Estimation by LfL experts
+Pure grassland region;Cattle;Male cattle over 1 year up to 2 years;Permanent grassland;LCB;15;Constant;Estimation by LfL experts
+Pure grassland region;Cattle;Male cattle over 2 years, breeding bulls;Cereal straw;LCB;5;Constant;Estimation by LfL experts
+Pure grassland region;Cattle;Male cattle over 2 years, breeding bulls;Clover alfalfa grass mix;LCB;0;Constant;Estimation by LfL experts
+Pure grassland region;Cattle;Male cattle over 2 years, breeding bulls;Clover grass mix;LCB;0;Constant;Estimation by LfL experts
+Pure grassland region;Cattle;Male cattle over 2 years, breeding bulls;Field grass;FCB;0;Constant;Estimation by LfL experts
+Pure grassland region;Cattle;Male cattle over 2 years, breeding bulls;Maize whole crop;FCB;0;Constant;Estimation by LfL experts
+Pure grassland region;Cattle;Male cattle over 2 years, breeding bulls;Permanent grassland;LCB;95;Constant;Estimation by LfL experts
+Pure grassland region;Cattle;Male cattle over 6 months up to 1 year;Cereal straw;LCB;5;Constant;Estimation by LfL experts
+Pure grassland region;Cattle;Male cattle over 6 months up to 1 year;Clover alfalfa grass mix;LCB;0;Constant;Estimation by LfL experts
+Pure grassland region;Cattle;Male cattle over 6 months up to 1 year;Clover grass mix;LCB;0;Constant;Estimation by LfL experts
+Pure grassland region;Cattle;Male cattle over 6 months up to 1 year;Field grass;FCB;0;Constant;Estimation by LfL experts
+Pure grassland region;Cattle;Male cattle over 6 months up to 1 year;Maize whole crop;FCB;80;Constant;Estimation by LfL experts
+Pure grassland region;Cattle;Male cattle over 6 months up to 1 year;Permanent grassland;LCB;15;Constant;Estimation by LfL experts
+Pure grassland region;Cattle;Other female cattle over 2 years;Cereal straw;LCB;5;Constant;Estimation by LfL experts
+Pure grassland region;Cattle;Other female cattle over 2 years;Clover alfalfa grass mix;LCB;0;Constant;Estimation by LfL experts
+Pure grassland region;Cattle;Other female cattle over 2 years;Clover grass mix;LCB;0;Constant;Estimation by LfL experts
+Pure grassland region;Cattle;Other female cattle over 2 years;Field grass;FCB;0;Constant;Estimation by LfL experts
+Pure grassland region;Cattle;Other female cattle over 2 years;Maize whole crop;FCB;0;Constant;Estimation by LfL experts
+Pure grassland region;Cattle;Other female cattle over 2 years;Permanent grassland;LCB;95;Constant;Estimation by LfL experts
+Pure grassland region;Horses;Horses over 1 year;Cereal straw;LCB;0;Constant;Estimation by LfL experts
+Pure grassland region;Horses;Horses over 1 year;Clover alfalfa grass mix;LCB;0;Constant;Estimation by LfL experts
+Pure grassland region;Horses;Horses over 1 year;Clover grass mix;LCB;0;Constant;Estimation by LfL experts
+Pure grassland region;Horses;Horses over 1 year;Field grass;FCB;0;Constant;Estimation by LfL experts
+Pure grassland region;Horses;Horses over 1 year;Maize whole crop;FCB;0;Constant;Estimation by LfL experts
+Pure grassland region;Horses;Horses over 1 year;Permanent grassland;LCB;100;Constant;Estimation by LfL experts
+Pure grassland region;Horses;Horses up to 1 year, ponies, small horses;Cereal straw;LCB;0;Constant;Estimation by LfL experts
+Pure grassland region;Horses;Horses up to 1 year, ponies, small horses;Clover alfalfa grass mix;LCB;0;Constant;Estimation by LfL experts
+Pure grassland region;Horses;Horses up to 1 year, ponies, small horses;Clover grass mix;LCB;0;Constant;Estimation by LfL experts
+Pure grassland region;Horses;Horses up to 1 year, ponies, small horses;Field grass;FCB;0;Constant;Estimation by LfL experts
+Pure grassland region;Horses;Horses up to 1 year, ponies, small horses;Maize whole crop;FCB;0;Constant;Estimation by LfL experts
+Pure grassland region;Horses;Horses up to 1 year, ponies, small horses;Permanent grassland;LCB;100;Constant;Estimation by LfL experts
+Pure grassland region;Pigs;Breeding sows from 1st farrowing/pregnant gilts;Cereal grain;FCB;73;Constant;Estimation by LfL experts
+Pure grassland region;Pigs;Fattening pigs (incl. boars) from 50 kg;Cereal grain;FCB;79;Constant;Estimation by LfL experts
+Pure grassland region;Pigs;Other breeding pigs (without boar) from 50 kg;Cereal grain;FCB;79;Constant;Estimation by LfL experts
+Pure grassland region;Pigs;Piglets up to under 30 kg;Cereal grain;FCB;66;Constant;Estimation by LfL experts
+Pure grassland region;Pigs;Young pigs 30 to under 50 kg;Cereal grain;FCB;87;Constant;Estimation by LfL experts
+Pure grassland region;Sheep;Ewes;Cereal straw;LCB;0;Constant;Estimation by LfL experts
+Pure grassland region;Sheep;Ewes;Clover alfalfa grass mix;LCB;0;Constant;Estimation by LfL experts
+Pure grassland region;Sheep;Ewes;Clover grass mix;LCB;0;Constant;Estimation by LfL experts
+Pure grassland region;Sheep;Ewes;Field grass;FCB;0;Constant;Estimation by LfL experts
+Pure grassland region;Sheep;Ewes;Maize whole crop;FCB;0;Constant;Estimation by LfL experts
+Pure grassland region;Sheep;Ewes;Permanent grassland;LCB;100;Constant;Estimation by LfL experts
+Pure grassland region;Sheep;Other sheep over 1 year, mutton;Cereal straw;LCB;0;Constant;Estimation by LfL experts
+Pure grassland region;Sheep;Other sheep over 1 year, mutton;Clover alfalfa grass mix;LCB;0;Constant;Estimation by LfL experts
+Pure grassland region;Sheep;Other sheep over 1 year, mutton;Clover grass mix;LCB;0;Constant;Estimation by LfL experts
+Pure grassland region;Sheep;Other sheep over 1 year, mutton;Field grass;FCB;0;Constant;Estimation by LfL experts
+Pure grassland region;Sheep;Other sheep over 1 year, mutton;Maize whole crop;FCB;0;Constant;Estimation by LfL experts
+Pure grassland region;Sheep;Other sheep over 1 year, mutton;Permanent grassland;LCB;100;Constant;Estimation by LfL experts
+Pure grassland region;Sheep;Rams for breeding;Cereal straw;LCB;0;Constant;Estimation by LfL experts
+Pure grassland region;Sheep;Rams for breeding;Clover alfalfa grass mix;LCB;0;Constant;Estimation by LfL experts
+Pure grassland region;Sheep;Rams for breeding;Clover grass mix;LCB;0;Constant;Estimation by LfL experts
+Pure grassland region;Sheep;Rams for breeding;Field grass;FCB;0;Constant;Estimation by LfL experts
+Pure grassland region;Sheep;Rams for breeding;Maize whole crop;FCB;0;Constant;Estimation by LfL experts
+Pure grassland region;Sheep;Rams for breeding;Permanent grassland;LCB;100;Constant;Estimation by LfL experts
+Pure grassland region;Sheep;Sheeps up to 1 year, including lambs;Cereal straw;LCB;0;Constant;Estimation by LfL experts
+Pure grassland region;Sheep;Sheeps up to 1 year, including lambs;Clover alfalfa grass mix;LCB;0;Constant;Estimation by LfL experts
+Pure grassland region;Sheep;Sheeps up to 1 year, including lambs;Clover grass mix;LCB;0;Constant;Estimation by LfL experts
+Pure grassland region;Sheep;Sheeps up to 1 year, including lambs;Field grass;FCB;0;Constant;Estimation by LfL experts
+Pure grassland region;Sheep;Sheeps up to 1 year, including lambs;Maize whole crop;FCB;0;Constant;Estimation by LfL experts
+Pure grassland region;Sheep;Sheeps up to 1 year, including lambs;Permanent grassland;LCB;100;Constant;Estimation by LfL experts

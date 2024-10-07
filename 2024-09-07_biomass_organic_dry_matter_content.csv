@@ -1,0 +1,42 @@
+Biomass class;Biomass;Organic dry matter [%];Distribution;Source
+FCB;Cereal grain;94.5;Constant;Gas Yield in Agricultural Biogas Plants, Dandikas et al. (2021)
+FCB;Cereal whole crop;93.7;Constant;Gas Yield in Agricultural Biogas Plants, Dandikas et al. (2021)
+FCB;Field grass;90;Constant;Gas Yield in Agricultural Biogas Plants, Dandikas et al. (2021)
+FCB;Fodder beets;94;Constant;Methane production potential of various crop species grown in energy crop rotations, Herrmann et al. (2016)
+FCB;Green rye;92;Constant;Methane production potential of various crop species grown in energy crop rotations, Herrmann et al. (2016)
+FCB;Legume cereal mix whole crop;93.5;Constant;Own data, unpublished
+FCB;Legume grain;95.5;Constant;Gas Yield in Agricultural Biogas Plants, Dandikas et al. (2021)
+FCB;Legume whole crop;90.3;Constant;Biogas crops grown in energy crop rotations: Linking chemical composition and methane production characteristics, Herrmann et al. (2016)
+FCB;Maize grain;98.24;Constant;Own data, unpublished
+FCB;Maize whole crop;96.5;Constant;Gas Yield in Agricultural Biogas Plants, Dandikas et al. (2021)
+FCB;Potatoes;96.2;Constant;Own data, unpublished
+FCB;Rapeseed grain;95.5;Constant;Own estimation
+FCB;Rapeseed whole crop;91;Constant;Methane production potential of various crop species grown in energy crop rotations, Herrmann et al. (2016)
+FCB;Sorghum grain;95.8;Constant;Own data, unpublished
+FCB;Sorghum whole crop;93.8;Constant;Gas Yield in Agricultural Biogas Plants, Dandikas et al. (2021)
+FCB;Sugar beets;82;Constant;Gas Yield in Agricultural Biogas Plants, Dandikas et al. (2021)
+FCB;Sunflower grain;96.6;Constant;Own estimation
+FCB;Sunflower whole crop;88;Constant;Methane production potential of various crop species grown in energy crop rotations, Herrmann et al. (2016)
+LCB;Alpine grass;89.7;Constant;Gas Yield in Agricultural Biogas Plants, Dandikas et al. (2021)
+LCB;Beet leaf;52.1;Constant;Own data, unpublished
+LCB;Cereal straw;94.4;Constant;Gas Yield in Agricultural Biogas Plants, Dandikas et al. (2021)
+LCB;Clover alfalfa grass mix;89.3;Constant;Biogas crops grown in energy crop rotations: Linking chemical composition and methane production characteristics, Herrmann et al. (2016)
+LCB;Clover grass mix;88.9;Constant;Gas Yield in Agricultural Biogas Plants, Dandikas et al. (2021)
+LCB;Cup plant;89.3;Constant;Gas Yield in Agricultural Biogas Plants, Dandikas et al. (2021)
+LCB;Landscaping material;93.3;Constant;Gas Yield in Agricultural Biogas Plants, Dandikas et al. (2021)
+LCB;Legume straw;84.9;Constant;Evaluation of the methane potential of different agricultural and food processing substrates for improved biogas production in rural areas, Garcia et al. (2019)
+LCB;Maize straw;95.4;Constant;Gas Yield in Agricultural Biogas Plants, Dandikas et al. (2021)
+LCB;Permanent grassland;89.7;Constant;Gas Yield in Agricultural Biogas Plants, Dandikas et al. (2021)
+LCB;Szarvasi whole crop;84.2;Constant;Gas Yield in Agricultural Biogas Plants, Dandikas et al. (2021)
+NCB;Cattle manure;82.2;Constant;Gas Yield in Agricultural Biogas Plants, Dandikas et al. (2021)
+NCB;Cattle slurry;78.9;Constant;Gas Yield in Agricultural Biogas Plants, Dandikas et al. (2021)
+NCB;Grape pomace;93.3;Constant;Gas Yield in Agricultural Biogas Plants, Dandikas et al. (2021)
+NCB;Hops chaff;81.35;Constant;Personal communication, Dr. Benedikt Hülsemann (University of Hohenheim)
+NCB;Horse manure;81.8;Constant;Gas Yield in Agricultural Biogas Plants, Dandikas et al. (2021)
+NCB;Pig manure;77.1;Constant;BMP calculated according to Comparison on batch anaerobic digestion of five different livestock manures and prediction of biochemical methane potential (BMP) using different statistical models, Kafle et al. (2016)
+NCB;Pig slurry;72.7;Constant;Gas Yield in Agricultural Biogas Plants, Dandikas et al. (2021)
+NCB;Potato haulm;78.9;Constant;-
+NCB;Poultry manure;75.3;Constant;Gas Yield in Agricultural Biogas Plants, Dandikas et al. (2021)
+NCB;Rape straw;91.4;Constant;Own data, unpublished
+NCB;Sheep manure;61.2;Constant;Own data, unpublished
+NCB;Sunflower straw;93.6;Constant;Evaluation of Sunflower Crop Residue in Rations for Growing Holstein Heifers, Drackley et al. (1985)

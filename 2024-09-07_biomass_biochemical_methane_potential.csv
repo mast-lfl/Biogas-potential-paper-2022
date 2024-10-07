@@ -1,0 +1,39 @@
+Biomass class;Biomass;Biochemical methane potential [m3 toDM^-1], M;Biochemical methane potential [m3 toDM^-1], SD;Biochemical methane potential [m3 toDM^-1], Min;Biochemical methane potential [m3 toDM^-1], Max;Distribution;Source
+FCB;Cereal grain;350.89;13.99;287.5;409.54;Normal;Gas Yield in Agricultural Biogas Plants, Dandikas et al. (2021)
+FCB;Cereal whole crop;350.82;14.09;293.18;403.06;Normal;Gas Yield in Agricultural Biogas Plants, Dandikas et al. (2021)
+FCB;Field grass;314.91;18.46;248.19;381.82;Normal;Gas Yield in Agricultural Biogas Plants, Dandikas et al. (2021)
+FCB;Fodder beets;397;7.98;369.64;426.27;Normal;Methane production potential of various crop species grown in energy crop rotations, Herrmann et al. (2016)
+FCB;Green rye;371.95;18.41;298.64;442.32;Normal;Methane production potential of various crop species grown in energy crop rotations, Herrmann et al. (2016)
+FCB;Legume cereal mix whole crop;366.03;21.79;281.02;441.48;Normal;Own data, unpublished
+FCB;Legume grain;245.28;24.76;152.9;346.05;Normal;Gas Yield in Agricultural Biogas Plants, Dandikas et al. (2021)
+FCB;Legume whole crop;245.46;24.32;161;344.82;Normal;Biogas crops grown in energy crop rotations: Linking chemical composition and methane production characteristics, Herrmann et al. (2016)
+FCB;Maize grain;381.07;22.77;295.73;466.11;Normal;Own data, unpublished
+FCB;Maize whole crop;357.28;32.3;217.44;477.93;Normal;Gas Yield in Agricultural Biogas Plants, Dandikas et al. (2021)
+FCB;Potatoes;326.8;19.69;257.57;407.52;Normal;Own data, unpublished
+FCB;Rapeseed whole crop;273.11;8.16;242.7;304.06;Normal;Methane production potential of various crop species grown in energy crop rotations, Herrmann et al. (2016)
+FCB;Sorghum grain;329.06;16.45;251.43;396.55;Normal;Own data, unpublished
+FCB;Sorghum whole crop;314.94;9.47;281.71;348.49;Normal;Gas Yield in Agricultural Biogas Plants, Dandikas et al. (2021)
+FCB;Sugar beets;349;10.5;305.48;388.52;Normal;Gas Yield in Agricultural Biogas Plants, Dandikas et al. (2021)
+FCB;Sunflower whole crop;265.89;21.42;174.63;352.67;Normal;Methane production potential of various crop species grown in energy crop rotations, Herrmann et al. (2016)
+LCB;Alpine grass;314.69;18.94;244.63;388.14;Normal;Gas Yield in Agricultural Biogas Plants, Dandikas et al. (2021)
+LCB;Beet leaf;309.49;21.51;229.76;396.68;Normal;Own data, unpublished
+LCB;Cereal straw;240.1;11.97;192.88;290.93;Normal;Gas Yield in Agricultural Biogas Plants, Dandikas et al. (2021)
+LCB;Clover alfalfa grass mix;288.69;28.97;178;391.68;Normal;Biogas crops grown in energy crop rotations: Linking chemical composition and methane production characteristics, Herrmann et al. (2016)
+LCB;Clover grass mix;322.01;6.45;298.78;344.98;Normal;Gas Yield in Agricultural Biogas Plants, Dandikas et al. (2021)
+LCB;Cup plant;276.99;8.42;247.31;307.71;Normal;Gas Yield in Agricultural Biogas Plants, Dandikas et al. (2021)
+LCB;Landscaping material;227.13;4.52;209.88;245.5;Normal;Gas Yield in Agricultural Biogas Plants, Dandikas et al. (2021)
+LCB;Legume straw;156.93;15.67;94.58;216.98;Normal;BMP calculated based on data from https://www.feedipedia.org, Faba bean (Vicia faba), aerial part, straw with formula from Correlation between biogas yield and chemical composition of energy crops, Dandikas et al. (2014)
+LCB;Maize straw;319.88;6.38;297.56;341.84;Normal;Gas Yield in Agricultural Biogas Plants, Dandikas et al. (2021)
+LCB;Permanent grassland;314.88;18.85;239.66;384.29;Normal;Gas Yield in Agricultural Biogas Plants, Dandikas et al. (2021)
+LCB;Szarvasi whole crop;340.94;10.2;298.23;380.69;Normal;Gas Yield in Agricultural Biogas Plants, Dandikas et al. (2021)
+NCB;Cattle manure;202.05;9.96;159.06;236.4;Normal;Gas Yield in Agricultural Biogas Plants, Dandikas et al. (2021)
+NCB;Cattle slurry;229.98;16.24;165.12;286.59;Normal;Gas Yield in Agricultural Biogas Plants, Dandikas et al. (2021)
+NCB;Grape pomace;109.92;11.12;70.98;158.63;Normal;Gas Yield in Agricultural Biogas Plants, Dandikas et al. (2021)
+NCB;Hops chaff;219.63;33.06;100.17;352.4;Normal;Personal communication, Dr. Benedikt Hülsemann (University of Hohenheim)
+NCB;Horse manure;218.13;6.58;197.29;243.75;Normal;Gas Yield in Agricultural Biogas Plants, Dandikas et al. (2021)
+NCB;Pig manure;323.08;12.91;271.95;372.52;Normal;Comparison on batch anaerobic digestion of five different livestock manures and prediction of biochemical methane potential (BMP) using different statistical models, Kafle et al. (2016)
+NCB;Pig slurry;230.03;9.1;195.28;265.48;Normal;Gas Yield in Agricultural Biogas Plants, Dandikas et al. (2021)
+NCB;Poultry manure;285.92;8.58;255.84;320.21;Normal;Gas Yield in Agricultural Biogas Plants, Dandikas et al. (2021)
+NCB;Rape straw;212.82;12.95;163.2;262.14;Normal;Own data, unpublished
+NCB;Sheep manure;201.63;24.11;114.37;293.38;Normal;Own data, unpublished
+NCB;Sunflower straw;44.94;4.53;28.82;62.85;Normal;BMP calculated based on data from https://www.feedipedia.org, sunflower stover (stalks and heads) with formula from Correlation between biogas yield and chemical composition of energy crops, Dandikas et al. (2014)

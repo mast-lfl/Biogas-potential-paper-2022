@@ -1,0 +1,10 @@
+Biomass;Biomass class;Harvest ratio [%], M;Harvest ratio [%], SD;Harvest ratio [%], Min;Harvest ratio [%], Max;Distribution;Source
+Beet leaf;LCB;84.99;1.7;78.48;91.31;Normal;Own estimation
+Cereal straw;LCB;70.05;3.3;57.83;84.09;Normal;Integrated assessment of sustainable cereal straw potential and different straw-based energy applications in Germany, Weiser et al. (2014)
+Grape pomace;NCB;100;0;100;100;Normal;Own estimation
+Hops chaff;NCB;100;0;100;100;Normal;Own estimation
+Legume straw;LCB;69.98;3.33;56.56;84.47;Normal;Integrated assessment of sustainable cereal straw potential and different straw-based energy applications in Germany, Weiser et al. (2014)
+Maize straw;LCB;44.98;1.68;38.27;51.29;Normal;Analysis of different harvesting methods for maize straw harvesting, Fleschhut et al. (2016)
+Potato haulm;NCB;0;0;0;0;Normal;Own estimation
+Rape straw;NCB;65.09;4.98;46.8;82.19;Normal;Energy from Biomass p.295, Kaltschmitt (2016)
+Sunflower straw;NCB;64.97;4.95;47.84;83.67;Normal;Energy from Biomass p.295, Kaltschmitt (2016)

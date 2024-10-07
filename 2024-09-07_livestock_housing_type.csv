@@ -1,0 +1,267 @@
+Administrative region;Livestock type;Livestock;Housing type description;Housing type [%], M;Housing type [%], SD;Housing type [%], Min;Housing type [%], Max;Distribution;Source
+Lower Bavaria;Cattle;Calves up to 6 months;Solid manure;28.05;2.51;19.18;36.69;Normal;Data set II
+Lower Bavaria;Cattle;Calves up to 6 months;Liquid slurry;71.95;2.51;63.31;80.82;Normal;Data set II
+Lower Bavaria;Cattle;Cows (dairy, suckler and nurse cows);Solid manure;6.41;2.5;0;15.05;Normal;Data set II
+Lower Bavaria;Cattle;Cows (dairy, suckler and nurse cows);Liquid slurry;93.59;2.5;84.95;100;Normal;Data set II
+Lower Bavaria;Cattle;Female cattle over 1 year up to 2 years;Liquid slurry;71.95;2.51;63.31;80.82;Normal;Data set II
+Lower Bavaria;Cattle;Female cattle over 1 year up to 2 years;Solid manure;28.05;2.51;19.18;36.69;Normal;Data set II
+Lower Bavaria;Cattle;Female cattle over 6 months up to 1 year;Solid manure;28.05;2.51;19.18;36.69;Normal;Data set II
+Lower Bavaria;Cattle;Female cattle over 6 months up to 1 year;Liquid slurry;71.95;2.51;63.31;80.82;Normal;Data set II
+Lower Bavaria;Cattle;Male cattle over 1 year up to 2 years;Liquid slurry;71.95;2.51;63.31;80.82;Normal;Data set II
+Lower Bavaria;Cattle;Male cattle over 1 year up to 2 years;Solid manure;28.05;2.51;19.18;36.69;Normal;Data set II
+Lower Bavaria;Cattle;Male cattle over 2 years, breeding bulls;Solid manure;28.05;2.51;19.18;36.69;Normal;Data set II
+Lower Bavaria;Cattle;Male cattle over 2 years, breeding bulls;Liquid slurry;71.95;2.51;63.31;80.82;Normal;Data set II
+Lower Bavaria;Cattle;Male cattle over 6 months up to 1 year;Solid manure;28.05;2.51;19.18;36.69;Normal;Data set II
+Lower Bavaria;Cattle;Male cattle over 6 months up to 1 year;Liquid slurry;71.95;2.51;63.31;80.82;Normal;Data set II
+Lower Bavaria;Cattle;Other female cattle over 2 years;Liquid slurry;71.95;2.51;63.31;80.82;Normal;Data set II
+Lower Bavaria;Cattle;Other female cattle over 2 years;Solid manure;28.05;2.51;19.18;36.69;Normal;Data set II
+Lower Bavaria;Horses;Horses over 1 year;Solid manure;100;0;100;100;Normal;Data set II
+Lower Bavaria;Horses;Horses up to 1 year, ponies, small horses;Solid manure;100;0;100;100;Normal;Data set II
+Lower Bavaria;Pigs;Breeding sows from 1st farrowing/pregnant gilts;Solid manure;8.25;2.51;0;16.89;Normal;Data set II
+Lower Bavaria;Pigs;Breeding sows from 1st farrowing/pregnant gilts;Liquid slurry;91.75;2.51;83.11;100;Normal;Data set II
+Lower Bavaria;Pigs;Fattening pigs (incl. boars) from 50 kg;Solid manure;3.9;2.38;0;12.48;Normal;Data set II
+Lower Bavaria;Pigs;Fattening pigs (incl. boars) from 50 kg;Liquid slurry;96.1;2.38;87.52;100;Normal;Data set II
+Lower Bavaria;Pigs;Other breeding pigs (without boar) from 50 kg;Liquid slurry;91.75;2.51;83.11;100;Normal;Data set II
+Lower Bavaria;Pigs;Other breeding pigs (without boar) from 50 kg;Solid manure;8.25;2.51;0;16.89;Normal;Data set II
+Lower Bavaria;Pigs;Piglets up to under 30 kg;Solid manure;8.25;2.51;0;16.89;Normal;Data set II
+Lower Bavaria;Pigs;Piglets up to under 30 kg;Liquid slurry;91.75;2.51;83.11;100;Normal;Data set II
+Lower Bavaria;Pigs;Young pigs 30 to under 50 kg;Liquid slurry;96.1;2.38;87.52;100;Normal;Data set II
+Lower Bavaria;Pigs;Young pigs 30 to under 50 kg;Solid manure;3.9;2.38;0;12.48;Normal;Data set II
+Lower Bavaria;Poultry;Broiler chickens/roosters and other chicks;Solid manure;100;0;100;100;Normal;Data set II
+Lower Bavaria;Poultry;Chicks and pullets up to 6 months for rearing;Solid manure;100;0;100;100;Normal;Data set II
+Lower Bavaria;Poultry;Ducks;Solid manure;100;0;100;100;Normal;Data set II
+Lower Bavaria;Poultry;Geese;Solid manure;100;0;100;100;Normal;Data set II
+Lower Bavaria;Poultry;Laying hens over 6 months;Solid manure;100;0;100;100;Normal;Data set II
+Lower Bavaria;Poultry;Turkeys;Solid manure;100;0;100;100;Normal;Data set II
+Lower Bavaria;Sheep;Ewes;Solid manure;100;0;100;100;Normal;Data set II
+Lower Bavaria;Sheep;Other sheep over 1 year, mutton;Solid manure;100;0;100;100;Normal;Data set II
+Lower Bavaria;Sheep;Rams for breeding;Solid manure;100;0;100;100;Normal;Data set II
+Lower Bavaria;Sheep;Sheeps up to 1 year, including lambs;Solid manure;100;0;100;100;Normal;Data set II
+Lower Franconia;Cattle;Calves up to 6 months;Solid manure;98.99;1.46;91.13;100;Normal;Data set II
+Lower Franconia;Cattle;Calves up to 6 months;Liquid slurry;1.01;1.46;0;8.87;Normal;Data set II
+Lower Franconia;Cattle;Cows (dairy, suckler and nurse cows);Liquid slurry;89.81;2.51;81.17;98.67;Normal;Data set II
+Lower Franconia;Cattle;Cows (dairy, suckler and nurse cows);Solid manure;10.19;2.51;1.33;18.83;Normal;Data set II
+Lower Franconia;Cattle;Female cattle over 1 year up to 2 years;Liquid slurry;1.01;1.46;0;8.87;Normal;Data set II
+Lower Franconia;Cattle;Female cattle over 1 year up to 2 years;Solid manure;98.99;1.46;91.13;100;Normal;Data set II
+Lower Franconia;Cattle;Female cattle over 6 months up to 1 year;Liquid slurry;1.01;1.46;0;8.87;Normal;Data set II
+Lower Franconia;Cattle;Female cattle over 6 months up to 1 year;Solid manure;98.99;1.46;91.13;100;Normal;Data set II
+Lower Franconia;Cattle;Male cattle over 1 year up to 2 years;Solid manure;98.99;1.46;91.13;100;Normal;Data set II
+Lower Franconia;Cattle;Male cattle over 1 year up to 2 years;Liquid slurry;1.01;1.46;0;8.87;Normal;Data set II
+Lower Franconia;Cattle;Male cattle over 2 years, breeding bulls;Liquid slurry;1.01;1.46;0;8.87;Normal;Data set II
+Lower Franconia;Cattle;Male cattle over 2 years, breeding bulls;Solid manure;98.99;1.46;91.13;100;Normal;Data set II
+Lower Franconia;Cattle;Male cattle over 6 months up to 1 year;Solid manure;98.99;1.46;91.13;100;Normal;Data set II
+Lower Franconia;Cattle;Male cattle over 6 months up to 1 year;Liquid slurry;1.01;1.46;0;8.87;Normal;Data set II
+Lower Franconia;Cattle;Other female cattle over 2 years;Liquid slurry;1.01;1.46;0;8.87;Normal;Data set II
+Lower Franconia;Cattle;Other female cattle over 2 years;Solid manure;98.99;1.46;91.13;100;Normal;Data set II
+Lower Franconia;Horses;Horses over 1 year;Solid manure;100;0;100;100;Normal;Data set II
+Lower Franconia;Horses;Horses up to 1 year, ponies, small horses;Solid manure;100;0;100;100;Normal;Data set II
+Lower Franconia;Pigs;Breeding sows from 1st farrowing/pregnant gilts;Liquid slurry;91.75;2.51;83.11;100;Normal;Data set II
+Lower Franconia;Pigs;Breeding sows from 1st farrowing/pregnant gilts;Solid manure;8.25;2.51;0;16.89;Normal;Data set II
+Lower Franconia;Pigs;Fattening pigs (incl. boars) from 50 kg;Liquid slurry;96.1;2.38;87.52;100;Normal;Data set II
+Lower Franconia;Pigs;Fattening pigs (incl. boars) from 50 kg;Solid manure;3.9;2.38;0;12.48;Normal;Data set II
+Lower Franconia;Pigs;Other breeding pigs (without boar) from 50 kg;Liquid slurry;91.75;2.51;83.11;100;Normal;Data set II
+Lower Franconia;Pigs;Other breeding pigs (without boar) from 50 kg;Solid manure;8.25;2.51;0;16.89;Normal;Data set II
+Lower Franconia;Pigs;Piglets up to under 30 kg;Solid manure;8.25;2.51;0;16.89;Normal;Data set II
+Lower Franconia;Pigs;Piglets up to under 30 kg;Liquid slurry;91.75;2.51;83.11;100;Normal;Data set II
+Lower Franconia;Pigs;Young pigs 30 to under 50 kg;Solid manure;3.9;2.38;0;12.48;Normal;Data set II
+Lower Franconia;Pigs;Young pigs 30 to under 50 kg;Liquid slurry;96.1;2.38;87.52;100;Normal;Data set II
+Lower Franconia;Poultry;Broiler chickens/roosters and other chicks;Solid manure;100;0;100;100;Normal;Data set II
+Lower Franconia;Poultry;Chicks and pullets up to 6 months for rearing;Solid manure;100;0;100;100;Normal;Data set II
+Lower Franconia;Poultry;Ducks;Solid manure;100;0;100;100;Normal;Data set II
+Lower Franconia;Poultry;Geese;Solid manure;100;0;100;100;Normal;Data set II
+Lower Franconia;Poultry;Laying hens over 6 months;Solid manure;100;0;100;100;Normal;Data set II
+Lower Franconia;Poultry;Turkeys;Solid manure;100;0;100;100;Normal;Data set II
+Lower Franconia;Sheep;Ewes;Solid manure;100;0;100;100;Normal;Data set II
+Lower Franconia;Sheep;Other sheep over 1 year, mutton;Solid manure;100;0;100;100;Normal;Data set II
+Lower Franconia;Sheep;Rams for breeding;Solid manure;100;0;100;100;Normal;Data set II
+Lower Franconia;Sheep;Sheeps up to 1 year, including lambs;Solid manure;100;0;100;100;Normal;Data set II
+Middle Franconia;Cattle;Calves up to 6 months;Solid manure;31.56;2.51;22.69;40.2;Normal;Data set II
+Middle Franconia;Cattle;Calves up to 6 months;Liquid slurry;68.44;2.51;59.8;77.31;Normal;Data set II
+Middle Franconia;Cattle;Cows (dairy, suckler and nurse cows);Solid manure;1;1.47;0;8.63;Normal;Data set II
+Middle Franconia;Cattle;Cows (dairy, suckler and nurse cows);Liquid slurry;99;1.47;91.37;100;Normal;Data set II
+Middle Franconia;Cattle;Female cattle over 1 year up to 2 years;Liquid slurry;68.44;2.51;59.8;77.31;Normal;Data set II
+Middle Franconia;Cattle;Female cattle over 1 year up to 2 years;Solid manure;31.56;2.51;22.69;40.2;Normal;Data set II
+Middle Franconia;Cattle;Female cattle over 6 months up to 1 year;Solid manure;31.56;2.51;22.69;40.2;Normal;Data set II
+Middle Franconia;Cattle;Female cattle over 6 months up to 1 year;Liquid slurry;68.44;2.51;59.8;77.31;Normal;Data set II
+Middle Franconia;Cattle;Male cattle over 1 year up to 2 years;Solid manure;31.56;2.51;22.69;40.2;Normal;Data set II
+Middle Franconia;Cattle;Male cattle over 1 year up to 2 years;Liquid slurry;68.44;2.51;59.8;77.31;Normal;Data set II
+Middle Franconia;Cattle;Male cattle over 2 years, breeding bulls;Liquid slurry;68.44;2.51;59.8;77.31;Normal;Data set II
+Middle Franconia;Cattle;Male cattle over 2 years, breeding bulls;Solid manure;31.56;2.51;22.69;40.2;Normal;Data set II
+Middle Franconia;Cattle;Male cattle over 6 months up to 1 year;Solid manure;31.56;2.51;22.69;40.2;Normal;Data set II
+Middle Franconia;Cattle;Male cattle over 6 months up to 1 year;Liquid slurry;68.44;2.51;59.8;77.31;Normal;Data set II
+Middle Franconia;Cattle;Other female cattle over 2 years;Liquid slurry;68.44;2.51;59.8;77.31;Normal;Data set II
+Middle Franconia;Cattle;Other female cattle over 2 years;Solid manure;31.56;2.51;22.69;40.2;Normal;Data set II
+Middle Franconia;Horses;Horses over 1 year;Solid manure;100;0;100;100;Normal;Data set II
+Middle Franconia;Horses;Horses up to 1 year, ponies, small horses;Solid manure;100;0;100;100;Normal;Data set II
+Middle Franconia;Pigs;Breeding sows from 1st farrowing/pregnant gilts;Liquid slurry;91.75;2.51;83.11;100;Normal;Data set II
+Middle Franconia;Pigs;Breeding sows from 1st farrowing/pregnant gilts;Solid manure;8.25;2.51;0;16.89;Normal;Data set II
+Middle Franconia;Pigs;Fattening pigs (incl. boars) from 50 kg;Solid manure;3.9;2.38;0;12.48;Normal;Data set II
+Middle Franconia;Pigs;Fattening pigs (incl. boars) from 50 kg;Liquid slurry;96.1;2.38;87.52;100;Normal;Data set II
+Middle Franconia;Pigs;Other breeding pigs (without boar) from 50 kg;Liquid slurry;91.75;2.51;83.11;100;Normal;Data set II
+Middle Franconia;Pigs;Other breeding pigs (without boar) from 50 kg;Solid manure;8.25;2.51;0;16.89;Normal;Data set II
+Middle Franconia;Pigs;Piglets up to under 30 kg;Liquid slurry;91.75;2.51;83.11;100;Normal;Data set II
+Middle Franconia;Pigs;Piglets up to under 30 kg;Solid manure;8.25;2.51;0;16.89;Normal;Data set II
+Middle Franconia;Pigs;Young pigs 30 to under 50 kg;Liquid slurry;96.1;2.38;87.52;100;Normal;Data set II
+Middle Franconia;Pigs;Young pigs 30 to under 50 kg;Solid manure;3.9;2.38;0;12.48;Normal;Data set II
+Middle Franconia;Poultry;Broiler chickens/roosters and other chicks;Solid manure;100;0;100;100;Normal;Data set II
+Middle Franconia;Poultry;Chicks and pullets up to 6 months for rearing;Solid manure;100;0;100;100;Normal;Data set II
+Middle Franconia;Poultry;Ducks;Solid manure;100;0;100;100;Normal;Data set II
+Middle Franconia;Poultry;Geese;Solid manure;100;0;100;100;Normal;Data set II
+Middle Franconia;Poultry;Laying hens over 6 months;Solid manure;100;0;100;100;Normal;Data set II
+Middle Franconia;Poultry;Turkeys;Solid manure;100;0;100;100;Normal;Data set II
+Middle Franconia;Sheep;Ewes;Solid manure;100;0;100;100;Normal;Data set II
+Middle Franconia;Sheep;Other sheep over 1 year, mutton;Solid manure;100;0;100;100;Normal;Data set II
+Middle Franconia;Sheep;Rams for breeding;Solid manure;100;0;100;100;Normal;Data set II
+Middle Franconia;Sheep;Sheeps up to 1 year, including lambs;Solid manure;100;0;100;100;Normal;Data set II
+Swabia;Cattle;Calves up to 6 months;Liquid slurry;68.82;2.51;60.18;77.68;Normal;Data set II
+Swabia;Cattle;Calves up to 6 months;Solid manure;31.18;2.51;22.32;39.82;Normal;Data set II
+Swabia;Cattle;Cows (dairy, suckler and nurse cows);Liquid slurry;94.78;2.47;86.15;100;Normal;Data set II
+Swabia;Cattle;Cows (dairy, suckler and nurse cows);Solid manure;5.22;2.47;0;13.85;Normal;Data set II
+Swabia;Cattle;Female cattle over 1 year up to 2 years;Liquid slurry;68.82;2.51;60.18;77.68;Normal;Data set II
+Swabia;Cattle;Female cattle over 1 year up to 2 years;Solid manure;31.18;2.51;22.32;39.82;Normal;Data set II
+Swabia;Cattle;Female cattle over 6 months up to 1 year;Liquid slurry;68.82;2.51;60.18;77.68;Normal;Data set II
+Swabia;Cattle;Female cattle over 6 months up to 1 year;Solid manure;31.18;2.51;22.32;39.82;Normal;Data set II
+Swabia;Cattle;Male cattle over 1 year up to 2 years;Liquid slurry;68.82;2.51;60.18;77.68;Normal;Data set II
+Swabia;Cattle;Male cattle over 1 year up to 2 years;Solid manure;31.18;2.51;22.32;39.82;Normal;Data set II
+Swabia;Cattle;Male cattle over 2 years, breeding bulls;Solid manure;31.18;2.51;22.32;39.82;Normal;Data set II
+Swabia;Cattle;Male cattle over 2 years, breeding bulls;Liquid slurry;68.82;2.51;60.18;77.68;Normal;Data set II
+Swabia;Cattle;Male cattle over 6 months up to 1 year;Solid manure;31.18;2.51;22.32;39.82;Normal;Data set II
+Swabia;Cattle;Male cattle over 6 months up to 1 year;Liquid slurry;68.82;2.51;60.18;77.68;Normal;Data set II
+Swabia;Cattle;Other female cattle over 2 years;Liquid slurry;68.82;2.51;60.18;77.68;Normal;Data set II
+Swabia;Cattle;Other female cattle over 2 years;Solid manure;31.18;2.51;22.32;39.82;Normal;Data set II
+Swabia;Horses;Horses over 1 year;Solid manure;100;0;100;100;Normal;Data set II
+Swabia;Horses;Horses up to 1 year, ponies, small horses;Solid manure;100;0;100;100;Normal;Data set II
+Swabia;Pigs;Breeding sows from 1st farrowing/pregnant gilts;Liquid slurry;91.75;2.51;83.11;100;Normal;Data set II
+Swabia;Pigs;Breeding sows from 1st farrowing/pregnant gilts;Solid manure;8.25;2.51;0;16.89;Normal;Data set II
+Swabia;Pigs;Fattening pigs (incl. boars) from 50 kg;Solid manure;3.9;2.38;0;12.48;Normal;Data set II
+Swabia;Pigs;Fattening pigs (incl. boars) from 50 kg;Liquid slurry;96.1;2.38;87.52;100;Normal;Data set II
+Swabia;Pigs;Other breeding pigs (without boar) from 50 kg;Liquid slurry;91.75;2.51;83.11;100;Normal;Data set II
+Swabia;Pigs;Other breeding pigs (without boar) from 50 kg;Solid manure;8.25;2.51;0;16.89;Normal;Data set II
+Swabia;Pigs;Piglets up to under 30 kg;Liquid slurry;91.75;2.51;83.11;100;Normal;Data set II
+Swabia;Pigs;Piglets up to under 30 kg;Solid manure;8.25;2.51;0;16.89;Normal;Data set II
+Swabia;Pigs;Young pigs 30 to under 50 kg;Solid manure;3.9;2.38;0;12.48;Normal;Data set II
+Swabia;Pigs;Young pigs 30 to under 50 kg;Liquid slurry;96.1;2.38;87.52;100;Normal;Data set II
+Swabia;Poultry;Broiler chickens/roosters and other chicks;Solid manure;100;0;100;100;Normal;Data set II
+Swabia;Poultry;Chicks and pullets up to 6 months for rearing;Solid manure;100;0;100;100;Normal;Data set II
+Swabia;Poultry;Ducks;Solid manure;100;0;100;100;Normal;Data set II
+Swabia;Poultry;Geese;Solid manure;100;0;100;100;Normal;Data set II
+Swabia;Poultry;Laying hens over 6 months;Solid manure;100;0;100;100;Normal;Data set II
+Swabia;Poultry;Turkeys;Solid manure;100;0;100;100;Normal;Data set II
+Swabia;Sheep;Ewes;Solid manure;100;0;100;100;Normal;Data set II
+Swabia;Sheep;Other sheep over 1 year, mutton;Solid manure;100;0;100;100;Normal;Data set II
+Swabia;Sheep;Rams for breeding;Solid manure;100;0;100;100;Normal;Data set II
+Swabia;Sheep;Sheeps up to 1 year, including lambs;Solid manure;100;0;100;100;Normal;Data set II
+Upper Bavaria;Cattle;Calves up to 6 months;Solid manure;35.01;2.51;26.14;43.65;Normal;Data set II
+Upper Bavaria;Cattle;Calves up to 6 months;Liquid slurry;64.99;2.51;56.35;73.86;Normal;Data set II
+Upper Bavaria;Cattle;Cows (dairy, suckler and nurse cows);Liquid slurry;92.18;2.51;83.54;100;Normal;Data set II
+Upper Bavaria;Cattle;Cows (dairy, suckler and nurse cows);Solid manure;7.82;2.51;0;16.46;Normal;Data set II
+Upper Bavaria;Cattle;Female cattle over 1 year up to 2 years;Solid manure;35.01;2.51;26.14;43.65;Normal;Data set II
+Upper Bavaria;Cattle;Female cattle over 1 year up to 2 years;Liquid slurry;64.99;2.51;56.35;73.86;Normal;Data set II
+Upper Bavaria;Cattle;Female cattle over 6 months up to 1 year;Liquid slurry;64.99;2.51;56.35;73.86;Normal;Data set II
+Upper Bavaria;Cattle;Female cattle over 6 months up to 1 year;Solid manure;35.01;2.51;26.14;43.65;Normal;Data set II
+Upper Bavaria;Cattle;Male cattle over 1 year up to 2 years;Liquid slurry;64.99;2.51;56.35;73.86;Normal;Data set II
+Upper Bavaria;Cattle;Male cattle over 1 year up to 2 years;Solid manure;35.01;2.51;26.14;43.65;Normal;Data set II
+Upper Bavaria;Cattle;Male cattle over 2 years, breeding bulls;Liquid slurry;64.99;2.51;56.35;73.86;Normal;Data set II
+Upper Bavaria;Cattle;Male cattle over 2 years, breeding bulls;Solid manure;35.01;2.51;26.14;43.65;Normal;Data set II
+Upper Bavaria;Cattle;Male cattle over 6 months up to 1 year;Solid manure;35.01;2.51;26.14;43.65;Normal;Data set II
+Upper Bavaria;Cattle;Male cattle over 6 months up to 1 year;Liquid slurry;64.99;2.51;56.35;73.86;Normal;Data set II
+Upper Bavaria;Cattle;Other female cattle over 2 years;Solid manure;35.01;2.51;26.14;43.65;Normal;Data set II
+Upper Bavaria;Cattle;Other female cattle over 2 years;Liquid slurry;64.99;2.51;56.35;73.86;Normal;Data set II
+Upper Bavaria;Horses;Horses over 1 year;Solid manure;100;0;100;100;Normal;Data set II
+Upper Bavaria;Horses;Horses up to 1 year, ponies, small horses;Solid manure;100;0;100;100;Normal;Data set II
+Upper Bavaria;Pigs;Breeding sows from 1st farrowing/pregnant gilts;Solid manure;8.25;2.51;0;16.89;Normal;Data set II
+Upper Bavaria;Pigs;Breeding sows from 1st farrowing/pregnant gilts;Liquid slurry;91.75;2.51;83.11;100;Normal;Data set II
+Upper Bavaria;Pigs;Fattening pigs (incl. boars) from 50 kg;Liquid slurry;96.1;2.38;87.52;100;Normal;Data set II
+Upper Bavaria;Pigs;Fattening pigs (incl. boars) from 50 kg;Solid manure;3.9;2.38;0;12.48;Normal;Data set II
+Upper Bavaria;Pigs;Other breeding pigs (without boar) from 50 kg;Solid manure;8.25;2.51;0;16.89;Normal;Data set II
+Upper Bavaria;Pigs;Other breeding pigs (without boar) from 50 kg;Liquid slurry;91.75;2.51;83.11;100;Normal;Data set II
+Upper Bavaria;Pigs;Piglets up to under 30 kg;Solid manure;8.25;2.51;0;16.89;Normal;Data set II
+Upper Bavaria;Pigs;Piglets up to under 30 kg;Liquid slurry;91.75;2.51;83.11;100;Normal;Data set II
+Upper Bavaria;Pigs;Young pigs 30 to under 50 kg;Solid manure;3.9;2.38;0;12.48;Normal;Data set II
+Upper Bavaria;Pigs;Young pigs 30 to under 50 kg;Liquid slurry;96.1;2.38;87.52;100;Normal;Data set II
+Upper Bavaria;Poultry;Broiler chickens/roosters and other chicks;Solid manure;100;0;100;100;Normal;Data set II
+Upper Bavaria;Poultry;Chicks and pullets up to 6 months for rearing;Solid manure;100;0;100;100;Normal;Data set II
+Upper Bavaria;Poultry;Ducks;Solid manure;100;0;100;100;Normal;Data set II
+Upper Bavaria;Poultry;Geese;Solid manure;100;0;100;100;Normal;Data set II
+Upper Bavaria;Poultry;Laying hens over 6 months;Solid manure;100;0;100;100;Normal;Data set II
+Upper Bavaria;Poultry;Turkeys;Solid manure;100;0;100;100;Normal;Data set II
+Upper Bavaria;Sheep;Ewes;Solid manure;100;0;100;100;Normal;Data set II
+Upper Bavaria;Sheep;Other sheep over 1 year, mutton;Solid manure;100;0;100;100;Normal;Data set II
+Upper Bavaria;Sheep;Rams for breeding;Solid manure;100;0;100;100;Normal;Data set II
+Upper Bavaria;Sheep;Sheeps up to 1 year, including lambs;Solid manure;100;0;100;100;Normal;Data set II
+Upper Franconia;Cattle;Calves up to 6 months;Liquid slurry;69.02;2.51;60.37;77.88;Normal;Data set II
+Upper Franconia;Cattle;Calves up to 6 months;Solid manure;30.98;2.51;22.12;39.63;Normal;Data set II
+Upper Franconia;Cattle;Cows (dairy, suckler and nurse cows);Solid manure;1;1.47;0;8.63;Normal;Data set II
+Upper Franconia;Cattle;Cows (dairy, suckler and nurse cows);Liquid slurry;99;1.47;91.37;100;Normal;Data set II
+Upper Franconia;Cattle;Female cattle over 1 year up to 2 years;Solid manure;30.98;2.51;22.12;39.63;Normal;Data set II
+Upper Franconia;Cattle;Female cattle over 1 year up to 2 years;Liquid slurry;69.02;2.51;60.37;77.88;Normal;Data set II
+Upper Franconia;Cattle;Female cattle over 6 months up to 1 year;Solid manure;30.98;2.51;22.12;39.63;Normal;Data set II
+Upper Franconia;Cattle;Female cattle over 6 months up to 1 year;Liquid slurry;69.02;2.51;60.37;77.88;Normal;Data set II
+Upper Franconia;Cattle;Male cattle over 1 year up to 2 years;Solid manure;30.98;2.51;22.12;39.63;Normal;Data set II
+Upper Franconia;Cattle;Male cattle over 1 year up to 2 years;Liquid slurry;69.02;2.51;60.37;77.88;Normal;Data set II
+Upper Franconia;Cattle;Male cattle over 2 years, breeding bulls;Liquid slurry;69.02;2.51;60.37;77.88;Normal;Data set II
+Upper Franconia;Cattle;Male cattle over 2 years, breeding bulls;Solid manure;30.98;2.51;22.12;39.63;Normal;Data set II
+Upper Franconia;Cattle;Male cattle over 6 months up to 1 year;Liquid slurry;69.02;2.51;60.37;77.88;Normal;Data set II
+Upper Franconia;Cattle;Male cattle over 6 months up to 1 year;Solid manure;30.98;2.51;22.12;39.63;Normal;Data set II
+Upper Franconia;Cattle;Other female cattle over 2 years;Liquid slurry;69.02;2.51;60.37;77.88;Normal;Data set II
+Upper Franconia;Cattle;Other female cattle over 2 years;Solid manure;30.98;2.51;22.12;39.63;Normal;Data set II
+Upper Franconia;Horses;Horses over 1 year;Solid manure;100;0;100;100;Normal;Data set II
+Upper Franconia;Horses;Horses up to 1 year, ponies, small horses;Solid manure;100;0;100;100;Normal;Data set II
+Upper Franconia;Pigs;Breeding sows from 1st farrowing/pregnant gilts;Solid manure;8.25;2.51;0;16.89;Normal;Data set II
+Upper Franconia;Pigs;Breeding sows from 1st farrowing/pregnant gilts;Liquid slurry;91.75;2.51;83.11;100;Normal;Data set II
+Upper Franconia;Pigs;Fattening pigs (incl. boars) from 50 kg;Solid manure;3.9;2.38;0;12.48;Normal;Data set II
+Upper Franconia;Pigs;Fattening pigs (incl. boars) from 50 kg;Liquid slurry;96.1;2.38;87.52;100;Normal;Data set II
+Upper Franconia;Pigs;Other breeding pigs (without boar) from 50 kg;Liquid slurry;91.75;2.51;83.11;100;Normal;Data set II
+Upper Franconia;Pigs;Other breeding pigs (without boar) from 50 kg;Solid manure;8.25;2.51;0;16.89;Normal;Data set II
+Upper Franconia;Pigs;Piglets up to under 30 kg;Solid manure;8.25;2.51;0;16.89;Normal;Data set II
+Upper Franconia;Pigs;Piglets up to under 30 kg;Liquid slurry;91.75;2.51;83.11;100;Normal;Data set II
+Upper Franconia;Pigs;Young pigs 30 to under 50 kg;Solid manure;3.9;2.38;0;12.48;Normal;Data set II
+Upper Franconia;Pigs;Young pigs 30 to under 50 kg;Liquid slurry;96.1;2.38;87.52;100;Normal;Data set II
+Upper Franconia;Poultry;Broiler chickens/roosters and other chicks;Solid manure;100;0;100;100;Normal;Data set II
+Upper Franconia;Poultry;Chicks and pullets up to 6 months for rearing;Solid manure;100;0;100;100;Normal;Data set II
+Upper Franconia;Poultry;Ducks;Solid manure;100;0;100;100;Normal;Data set II
+Upper Franconia;Poultry;Geese;Solid manure;100;0;100;100;Normal;Data set II
+Upper Franconia;Poultry;Laying hens over 6 months;Solid manure;100;0;100;100;Normal;Data set II
+Upper Franconia;Poultry;Turkeys;Solid manure;100;0;100;100;Normal;Data set II
+Upper Franconia;Sheep;Ewes;Solid manure;100;0;100;100;Normal;Data set II
+Upper Franconia;Sheep;Other sheep over 1 year, mutton;Solid manure;100;0;100;100;Normal;Data set II
+Upper Franconia;Sheep;Rams for breeding;Solid manure;100;0;100;100;Normal;Data set II
+Upper Franconia;Sheep;Sheeps up to 1 year, including lambs;Solid manure;100;0;100;100;Normal;Data set II
+Upper Palatinate;Cattle;Calves up to 6 months;Liquid slurry;67.55;2.51;58.91;76.41;Normal;Data set II
+Upper Palatinate;Cattle;Calves up to 6 months;Solid manure;32.45;2.51;23.59;41.09;Normal;Data set II
+Upper Palatinate;Cattle;Cows (dairy, suckler and nurse cows);Liquid slurry;93.89;2.5;85.25;100;Normal;Data set II
+Upper Palatinate;Cattle;Cows (dairy, suckler and nurse cows);Solid manure;6.11;2.5;0;14.75;Normal;Data set II
+Upper Palatinate;Cattle;Female cattle over 1 year up to 2 years;Liquid slurry;67.55;2.51;58.91;76.41;Normal;Data set II
+Upper Palatinate;Cattle;Female cattle over 1 year up to 2 years;Solid manure;32.45;2.51;23.59;41.09;Normal;Data set II
+Upper Palatinate;Cattle;Female cattle over 6 months up to 1 year;Liquid slurry;67.55;2.51;58.91;76.41;Normal;Data set II
+Upper Palatinate;Cattle;Female cattle over 6 months up to 1 year;Solid manure;32.45;2.51;23.59;41.09;Normal;Data set II
+Upper Palatinate;Cattle;Male cattle over 1 year up to 2 years;Liquid slurry;67.55;2.51;58.91;76.41;Normal;Data set II
+Upper Palatinate;Cattle;Male cattle over 1 year up to 2 years;Solid manure;32.45;2.51;23.59;41.09;Normal;Data set II
+Upper Palatinate;Cattle;Male cattle over 2 years, breeding bulls;Liquid slurry;67.55;2.51;58.91;76.41;Normal;Data set II
+Upper Palatinate;Cattle;Male cattle over 2 years, breeding bulls;Solid manure;32.45;2.51;23.59;41.09;Normal;Data set II
+Upper Palatinate;Cattle;Male cattle over 6 months up to 1 year;Solid manure;32.45;2.51;23.59;41.09;Normal;Data set II
+Upper Palatinate;Cattle;Male cattle over 6 months up to 1 year;Liquid slurry;67.55;2.51;58.91;76.41;Normal;Data set II
+Upper Palatinate;Cattle;Other female cattle over 2 years;Solid manure;32.45;2.51;23.59;41.09;Normal;Data set II
+Upper Palatinate;Cattle;Other female cattle over 2 years;Liquid slurry;67.55;2.51;58.91;76.41;Normal;Data set II
+Upper Palatinate;Horses;Horses over 1 year;Solid manure;100;0;100;100;Normal;Data set II
+Upper Palatinate;Horses;Horses up to 1 year, ponies, small horses;Solid manure;100;0;100;100;Normal;Data set II
+Upper Palatinate;Pigs;Breeding sows from 1st farrowing/pregnant gilts;Liquid slurry;91.75;2.51;83.11;100;Normal;Data set II
+Upper Palatinate;Pigs;Breeding sows from 1st farrowing/pregnant gilts;Solid manure;8.25;2.51;0;16.89;Normal;Data set II
+Upper Palatinate;Pigs;Fattening pigs (incl. boars) from 50 kg;Solid manure;3.9;2.38;0;12.48;Normal;Data set II
+Upper Palatinate;Pigs;Fattening pigs (incl. boars) from 50 kg;Liquid slurry;96.1;2.38;87.52;100;Normal;Data set II
+Upper Palatinate;Pigs;Other breeding pigs (without boar) from 50 kg;Solid manure;8.25;2.51;0;16.89;Normal;Data set II
+Upper Palatinate;Pigs;Other breeding pigs (without boar) from 50 kg;Liquid slurry;91.75;2.51;83.11;100;Normal;Data set II
+Upper Palatinate;Pigs;Piglets up to under 30 kg;Solid manure;8.25;2.51;0;16.89;Normal;Data set II
+Upper Palatinate;Pigs;Piglets up to under 30 kg;Liquid slurry;91.75;2.51;83.11;100;Normal;Data set II
+Upper Palatinate;Pigs;Young pigs 30 to under 50 kg;Solid manure;3.9;2.38;0;12.48;Normal;Data set II
+Upper Palatinate;Pigs;Young pigs 30 to under 50 kg;Liquid slurry;96.1;2.38;87.52;100;Normal;Data set II
+Upper Palatinate;Poultry;Broiler chickens/roosters and other chicks;Solid manure;100;0;100;100;Normal;Data set II
+Upper Palatinate;Poultry;Chicks and pullets up to 6 months for rearing;Solid manure;100;0;100;100;Normal;Data set II
+Upper Palatinate;Poultry;Ducks;Solid manure;100;0;100;100;Normal;Data set II
+Upper Palatinate;Poultry;Geese;Solid manure;100;0;100;100;Normal;Data set II
+Upper Palatinate;Poultry;Laying hens over 6 months;Solid manure;100;0;100;100;Normal;Data set II
+Upper Palatinate;Poultry;Turkeys;Solid manure;100;0;100;100;Normal;Data set II
+Upper Palatinate;Sheep;Ewes;Solid manure;100;0;100;100;Normal;Data set II
+Upper Palatinate;Sheep;Other sheep over 1 year, mutton;Solid manure;100;0;100;100;Normal;Data set II
+Upper Palatinate;Sheep;Rams for breeding;Solid manure;100;0;100;100;Normal;Data set II
+Upper Palatinate;Sheep;Sheeps up to 1 year, including lambs;Solid manure;100;0;100;100;Normal;Data set II
